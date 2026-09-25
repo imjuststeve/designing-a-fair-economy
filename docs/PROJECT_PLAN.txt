@@ -1,0 +1,391 @@
+Text extracted from Economic_Transition_Project_Plan.pdf. The PDF preserves the original layout and tables.
+
+--- Page 1 ---
+Economic Transition Framework Project Plan
+Economic security, liberty, opportunity, and distributed power
+Working draft v0.1 | September 24, 2026 | Project owner: Steve Smith
+Purpose and intended result
+Develop and critically evaluate a framework for improving economic security and access to
+productive ownership while preserving personal freedom, markets, ambition, and peaceful
+institutional correction. The immediate result is a documented, evidence-based proposal with
+explicit uncertainties. Adoption, legislation, and a live pilot require later decisions.
+Use the supplied conversation and working overview as the starting record. The previous
+three-page PDF was an abridgment and omitted the references; it should not replace the fuller
+discussion as the provenance record. This plan restores a traceable reference register and
+separates user proposals from assistant suggestions.
+Scope
+• Define economic security, meaningful choice, concentrated power, contestability, and capture in
+measurable terms.
+• Compare financing, ownership, competition, governance, and transition options. Develop the
+education-for-service compact as a specific candidate mechanism.
+• Test affordability, labor capacity, distributional effects, accessibility, coercion risks, and
+institutional failure. Produce a pilot design only if the evidence supports one.
+Working constraints from the overview
+Protect basic security during change; preserve diverse ambitions and outcomes; avoid deliberately
+dismantling essential capacity before alternatives work; reuse institutions where feasible; make
+intermediate stages useful; distribute authority; and allow future generations to revise the
+framework. These constraints form a provisional baseline, not a claim that their implementation is
+already solved.
+Definition of completion for this research cycle
+A versioned framework with a glossary, verified evidence register, compared policy options,
+reproducible cost model, service-compact specification, failure scenarios, and unresolved-decision
+log. Every recommendation must state its rationale, who pays, who bears risk, what could falsify
+it, and how it could be revised or stopped.
+Recommended starting boundary: use one United States civilian case study for tractable
+modeling, then test transferability to other jurisdictions. This is a proposed research choice, not an
+agreed geographic limitation. No claim of originality or proven superiority is assumed.
+
+--- Page 2 ---
+Decision ownership and project controls
+Preserve the status of each idea
+Status
+Meaning and initial examples
+User proposal
+Education support creates at least one year of service regardless of graduation. Disability
+should prompt capability-based service matching. These are design inputs, not settled
+legal provisions.
+Working synthesis
+Economic floor, wider ownership, contestable power, incremental transition, and
+protection of vulnerable households summarize the prior overview and remain open to
+refinement.
+Assistant proposal
+Paid service, proportional additional years, vocational eligibility, waivers, and specific
+governance mechanisms were suggested in the discussion. Require explicit project-owner
+decisions before treating them as adopted.
+Empirical or legal
+claim
+Requires a source, passage, date, jurisdiction, and limitations. A citation does not
+establish that the complete framework works.
+Roles
+Project owner: Steve sets priorities and accepts or rejects proposed principles. Research and
+drafting support: collect evidence, compare alternatives, document assumptions, and maintain
+versions. Independent reviewers: economics, public finance, labor, disability access, public
+administration, and law; recruitment and availability are not assumed.
+Working records
+• Decision log: ID, question, options, evidence IDs, decision, rationale, date, owner, and review
+trigger.
+• Claim register: exact claim, originating message or document, source and passage, supporting
+or conflicting evidence, confidence, and scope limits.
+• Risk register: affected people, mechanism of harm, leading indicator, mitigation, residual risk,
+and stop condition.
+• Change log: retain prior wording and explain substantive changes. Silence or continued
+discussion does not count as approval.
+Review rhythm
+Work in focused research sessions. End each with completed outputs, changed assumptions,
+unresolved questions, and the next decision. Conduct a phase review before advancing; record
+proceed, revise, defer, or reject. Publication and outreach remain separate actions requiring
+explicit authorization.
+
+--- Page 3 ---
+Phased roadmap and acceptance gates
+Phase
+Work and deliverable
+Exit gate
+0 Foundation
+Baseline charter, glossary, decision log, and
+complete visible-reference inventory.
+Owner confirms scope and proposal
+status; missing history is marked.
+1 Evidence
+Appraise R01-R20; recover blocked references;
+compare relevant programs and
+counterevidence.
+Each material claim has verified support
+or an explicit unresolved flag.
+2 Design options
+Compare economic floor, ownership, financing,
+governance, and service-compact alternatives.
+At least two plausible alternatives and the
+current-system baseline assessed for
+each major choice.
+3 Feasibility
+Model budgets, household effects, workforce
+capacity, and implementation dependencies.
+Funding and resource assumptions
+explicit; sensitivity tests reproducible; no
+assumed free labor.
+4 Challenge
+Run adverse scenarios and commission
+independent review where available.
+Critical failures resolved or proposal
+narrowed; dissent retained.
+5 Synthesis
+Framework v0.2, revised executive overview,
+source appendix, and decision recommendations.
+Owner approves an accurate statement of
+what is established and what remains
+open.
+6 Conditional
+pilot design
+Select a limited intervention and develop
+evaluation, funding, participant protections, and
+shutdown plan.
+Separate approval and qualified review
+before any enrollment or expenditure.
+Dependencies
+Phase 0 precedes evidence appraisal. Design options can develop alongside research, but
+selection waits for sufficient evidence. Costing follows explicit eligibility and service assumptions.
+Challenge testing may reopen any earlier phase. A failed gate returns work for revision; it does not
+force a deadline-driven approval.
+Effort estimate for the initial research cycle
+Planning allowance: Phase 0, 4-6 hours; Phase 1, 12-20; Phase 2, 12-18; Phase 3, 16-28; Phase 4,
+10-18; Phase 5, 6-10. Total: 60-100 working hours, excluding specialist review and live-pilot
+design. These are rough planning estimates, not commitments. At 4-6 hours weekly, allow roughly
+10-25 weeks plus external review delays.
+
+--- Page 4 ---
+Research workstreams
+A Economic security and household resilience
+Specify the necessities included in a floor, eligibility, delivery routes, and geographic cost
+differences. Compare cash, services, and combinations. Model benefit cliffs, access failures,
+administrative burden, and take-up. Deliver a floor options paper and household profiles. Starting
+references: R06, R08, R11.
+B Ownership and competitive markets
+Compare employee ownership, diversified citizen funds, cooperatives, retirement participation,
+and profit sharing. Examine investment risk, voting rights, liquidity, portability, inheritance, and
+the danger of concentrating both wages and savings in one employer. Address natural monopolies
+and market entry. Deliver an ownership and competition options matrix. The existing references
+are insufficient for this workstream; add primary research and outcome evaluations.
+C Governance and resistance to capture
+Map who appoints, funds, audits, disciplines, and removes each decision-maker. Test donor
+influence, revolving doors, procurement favoritism, collusion between oversight bodies, and
+capture of citizen funds. Compare distributed authority with coordination costs. Deliver an
+authority map and threat register. Starting references: R01-R03, R19.
+D Financing and real capacity
+Identify start-up and recurring costs, who ultimately bears each funding mechanism, training
+bottlenecks, and capacity that can be reused. Compare taxation, spending reallocation, limited
+borrowing, and ownership returns. Deliver a cost model and resource inventory. R04, R06-R08
+provide context; their settings and assumptions must be preserved.
+E Education and public service
+Specify the compact, compare existing programs, and test whether it adds useful capacity. Include
+accessible placements, completion failure, and government failure to place participants. Deliver a
+policy options paper and draft participant terms. Starting references: R12-R18, R20. Military
+programs are contextual comparisons, not automatic templates for civilian enforcement.
+F Transition and public legitimacy
+Compare sequencing, compensation, participation, and reversibility. Ask affected people about
+concrete choices and costs. Record how consultation changes proposals. Deliver an
+implementation sequence, evaluation design, and communication brief that discloses trade-offs.
+Starting references: R01, R03-R05, R09-R11.
+
+--- Page 5 ---
+Education for service design agenda
+Retain the user proposal of a minimum one-year obligation after accepting educational support,
+independent of graduation. Test its operation before adopting contract language. Education
+participation can coexist with highly variable work capacity; placement must assess actual abilities
+and changing circumstances.
+Decision
+Options and questions to resolve
+Acceptance and
+accrual
+Does obligation begin at signing, disbursement, or enrollment? Is there a cooling-off
+period? How is a small or reversed payment treated? Compare fixed minimum,
+funded-year accrual, and a capped obligation.
+Eligibility and benefit
+Admissions standards, residency, prior education, program quality, tuition caps, living
+support, part-time study, and vocational pathways. Prevent provider price inflation and
+low-value enrollment.
+Pay and work
+conditions
+Assess normal salary and benefits, wage parity, hours, caregiving, relocation, part-time
+equivalence, and representation. Paid service is recommended but requires a recorded
+decision.
+Placement
+Define qualifying public benefit, approved employers, participant choice, local or remote
+work, supervision, accreditation, and a maximum placement wait. Decide what happens
+if government cannot provide suitable work.
+Disability and hardship
+Accommodation, changing capacity, episodic illness, caring duties, deferment, appeal,
+and genuine incapacity. No automatic assumption that studying establishes sustained
+employment capacity. Waiver criteria remain open.
+Withdrawal and breach
+Examine transfer, withdrawal, proportionate repayment, hardship relief, and
+government breach. Test whether the exit terms preserve practical freedom. Legal
+review must assess enforceability and rights.
+Additional public value
+Verify useful work, training and supervision costs, retention, job displacement, wage
+effects, and whether participants would have served anyway.
+Equity
+Compare participation and burden by income, disability, location, age, and family status.
+Examine whether wealthy participants can buy freedom from terms borne by others.
+Required output: a plain-language specimen agreement plus a decision matrix, with unresolved
+clauses visibly marked. The agreement remains a research draft until independent legal and
+accessibility review and owner approval.
+
+--- Page 6 ---
+Feasibility model and evaluation
+Keep three accounts distinct
+• Fiscal account: annual public cash outlays, receipts, debt service, and contingent liabilities.
+• Resource account: workers, training seats, supervision, facilities, materials, and time diverted
+from other activities.
+• Distribution account: household costs and benefits by income, disability, region, and
+participation status.
+Minimum costing specification
+For each cohort and year, estimate education funding + participant pay and benefits +
+administration + accommodation + supervision + facilities and financing costs. Subtract only
+separately justified budget savings or receipts. Present gross costs even when net costs are
+reported. Public service output is a benefit to assess, not cash revenue that can automatically fund
+tuition.
+Compare the compact with ordinary hiring, scholarships without service, apprenticeships, and
+targeted retention incentives. Vary enrollment, completion, placement delay, wage growth,
+service length, supervisory load, dropout, and long-term retention. Track discount rates and
+inflation assumptions; report ranges rather than a single confident forecast.
+Evaluation measures
+Outcome
+Measurement approach
+Economic security
+Disposable resources after essential costs; hardship, arrears, access delays, and
+benefit cliffs.
+Freedom and fairness
+Real exit options; unwanted placement; complaints; differences in burden and access
+across groups.
+Public capacity
+Additional staffed hours or validated services relative to the baseline, adjusted for
+displacement and supervision.
+Fiscal performance
+Gross and net spending, cost per additional service unit, liabilities, and cost overruns.
+Governance
+Concentration of authority, conflicts, audit coverage, complaint resolution, and
+reversibility.
+Set thresholds before a pilot, with affected participants and reviewers. Use credible comparison
+groups where feasible and disclose selection bias, spillovers, and uncertainty. A small successful
+pilot does not establish national scalability. R01 and R09-R10 inform evaluation and engagement;
+no numerical targets are adopted here.
+
+--- Page 7 ---
+Failure tests and immediate next steps
+Mandatory scenario suite
+Scenario
+Question and proposed response
+Recession or funding loss
+Can existing commitments be honored? Require a funded continuity or orderly
+closeout plan before expansion.
+Government cannot place a
+participant
+Does the obligation become indefinite? Define a time limit, accessible alternatives,
+and relief.
+Student leaves early or
+becomes unable to work
+Is the burden proportionate and feasible? Test noncompletion, illness, disability,
+and appeals separately.
+Service replaces regular
+jobs
+Does measured capacity fall once displacement is counted? Independent staffing
+and wage review; suspend new placements if unresolved.
+Education providers raise
+prices
+Does the subsidy increase price rather than access? Test caps, procurement
+design, quality review, and exit of weak providers.
+Oversight or investment
+fund is captured
+Can affected people challenge decisions and recover control? Test independent
+review, removal, disclosure, and unwind procedures.
+Program benefits fail to
+scale
+Do bottlenecks or supply shortages erase gains? Require a fresh capacity
+assessment at each expansion.
+First four working sessions
+• Session 1: confirm the charter, terminology, provisional United States case study, and status
+labels. Open the decision and claim registers.
+• Session 2: resolve R05 claim support; recover blocked references R13, R15, R17, and R18; verify
+current scholarship terms; identify uncited assertions.
+• Session 3: compare three service-compact designs against ordinary hiring and a scholarship-only
+baseline. Prioritize acceptance trigger, pay, exit, and placement failure.
+• Session 4: build the first cohort cost model and household scenarios. Select the most
+consequential unknown for deeper research.
+First release package
+Deliver charter v0.1, glossary, source and claim register, unresolved-decision log, research
+backlog, and a first compact options matrix. Subsequent releases add the feasibility model,
+challenge results, and revised overview. No numerical benefit, cost, or transition date becomes an
+established fact solely because it appears in a draft.
+
+--- Page 8 ---
+Conversation reference register
+All 20 distinct links visible in the supplied conversation are retained below. Earlier conversation content was
+truncated, so this cannot certify completeness for unseen messages. URLs omit tracking parameters. Retrieval
+check: September 25, 2026 UTC. Retrieved means accessible, not fully appraised. Use each source link to open the
+original page.
+R01 OECD Regulatory Policy Outlook 2025 - Regulating for effectiveness
+Open original source | Retrieved; detailed evidence appraisal pending
+Evaluation and correction of regulation; phase 1 evidence review.
+R02 Opportunities for All - Build efficient and responsive governments
+Open original source | Retrieved; detailed evidence appraisal pending
+Capture and responsive government; governance workstream.
+R03 Exploring New Frontiers in Citizen Participation - Building Resilient
+Democracies
+Open original source | Retrieved; detailed evidence appraisal pending
+Citizen participation and democratic resilience; consultation design.
+R04 The Sequencing and Speed of Reforms in Transition Economies:
+Implications for the Case of Uzbekistan
+Open original source | Retrieved; detailed evidence appraisal pending
+Sequencing and speed; country-specific transition evidence, not proof of a universal path.
+R05 Structures, Processes and Governance in Tax Policy-Making - Carlo
+Cottarelli
+Open original source | Retrieved; claim support needs correction
+Previously cited for compensation before disruption. Retrieved page concerns tax policymaking;
+that specific claim remains unsupported by this citation pending passage review.
+
+--- Page 9 ---
+Conversation reference register continued
+R06 Government at a Glance 2025 - Poverty and inequality
+Open original source | Retrieved; detailed evidence appraisal pending
+Baseline inequality and redistribution measures; distinguish association from causal attribution.
+R07 Closing the Gap: A LIC’s Policy Options Under an Aid Shock
+Open original source | Retrieved; detailed evidence appraisal pending
+Fiscal stress scenarios. Model of an aid-dependent economy; do not generalize its results to every
+country.
+R08 Financing gap for universal social protection: Global, regional and national
+estimates and strategies for creating fiscal space
+Open original source | Retrieved; detailed evidence appraisal pending
+Costing social protection and international variation. Page confirms 3.3% and 52.3% GDP
+estimates; these are contextual estimates, not this project's budget.
+R09 Support for Economic Reforms Hinges on Communication, Engagement,
+and Trust
+Open original source | Retrieved; detailed evidence appraisal pending
+Engagement and reform support; investigate study design and limits before extrapolation.
+R10 Getting the Public on Side
+Open original source | Retrieved; detailed evidence appraisal pending
+Public acceptance and reform design; compare proposed mechanisms.
+
+--- Page 10 ---
+Conversation reference register continued
+R11 Social protection floor
+Open original source | Retrieved; detailed evidence appraisal pending
+Definition of a social protection floor; inputs to floor specification.
+R12 NHSC Scholarship Program Overview
+Open original source | Retrieved; detailed evidence appraisal pending
+Education-for-service precedent in selected health professions; not evidence that a universal
+scheme would succeed.
+R13 US Naval Academy - Admissions Apply
+Open original source | Access blocked; not reverified
+Military education precedent cited earlier; blocked with HTTP 403, details not reverified.
+R14 How to Comply with Scholarship Program Requirements
+Open original source | Retrieved; detailed evidence appraisal pending
+Detailed scholarship obligations; assess scope and current contract conditions separately.
+R15 US Naval Academy - Blue and Gold Book Admissions
+Open original source | Access blocked; not reverified
+Noncompletion and service agreements cited earlier; blocked with HTTP 403, details not
+reverified.
+
+--- Page 11 ---
+Conversation reference register continued
+R16 Disability Discrimination and Employment Decisions
+Open original source | Retrieved; detailed evidence appraisal pending
+Accessible employment analysis; does not establish that every student can perform every job.
+R17 Department of Labor ODEP - Apprenticeship
+Open original source | Access blocked; not reverified
+Accessible apprenticeship context; blocked with HTTP 403, content not reverified.
+R18 Convention on the Rights of Persons with Disabilities - Article 27 Work and
+employment
+Open original source | Access blocked; not reverified
+Work and disability rights context; blocked with HTTP 403, content not reverified.
+R19 Anti-Corruption and Integrity Outlook 2026
+Open original source | Retrieved; detailed evidence appraisal pending
+Integrity implementation and institutional capture; governance evidence review.
+R20 The ADA: Your Employment Rights as an Individual With a Disability
+Open original source | Retrieved; detailed evidence appraisal pending
+Reasonable accommodation and essential job functions; legal applicability needs qualified review.
+Evidence gaps carried forward
+The conversation also mentioned Army ROTC without a corresponding link. Add an official source before using its
+contractual terms. Claims about universal program novelty, repayment value, political support, and the economic
+effects of expanded ownership require additional research. The existing sources do not validate the complete
+proposed system.
