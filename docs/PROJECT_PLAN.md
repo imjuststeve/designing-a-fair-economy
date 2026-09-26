@@ -1,6 +1,6 @@
 # Designing a Fair Economy Project Plan
 
-Living research framework v0.2 | September 26, 2026
+Living research framework v0.3 | September 26, 2026
 
 Project founder: Steve Smith · Project positions decided by contributor vote
 
@@ -231,13 +231,15 @@ The process is a versioned proposal, substantive review, revision, a contributor
 
 Adopted decisions guide the current project until revised or reversed by a later valid vote. Everything is revisable, including the purpose, principles, mechanisms, voter criteria, and governance itself. Contributors can propose a reasoned change of judgment without needing new empirical evidence. A vote selects the project's position and does not establish empirical truth.
 
-A revision requires at least 60 percent approval of total valid votes cast once there are three or more eligible contributors or voters. Below three, a strict majority wins. Explicit abstentions count in the total; non-voters do not. There is no minimum turnout quorum, and no valid ballots means no decision. Record the eligible contributor count at opening. For three or more contributors or voters, adopt when N > 0 and 5 × SUPPORT >= 3 × N, where N = SUPPORT + OPPOSE + ABSTAIN. Otherwise require N > 0 and 2 × SUPPORT > N. Exactly 60 percent passes; round the required number of supporting ballots up to a whole person. Report turnout even when small. There is no founder override.
+Ideas and evidence can enter discussion without becoming adopted positions; faithful editorial corrections use maintainer review. Substantive additions, revisions, and removals require at least 60 percent approval. Governance, voting rights, and central-purpose changes require at least two-thirds. Approval excludes abstentions; abstentions count toward participation. Once three contributors are eligible, quorum is at least half of the eligible roster, rounded up, with a minimum of three. Below three eligible contributors, ordinary decisions use a strict majority with at least one participant; the two-thirds governance threshold still applies. Missing quorum or no expressed preferences means no decision.
 
-This September 26 clarification supersedes the earlier three-voter default and exclusion of abstentions from the denominator. The threshold itself remains revisable. GOVERNANCE.md retains provisional seven-day review and voting windows and a pre-opening contribution cutoff. Independent review is sought but is not an additional policy veto over a valid result.
+With S supporting, O opposing, and A abstaining, participation is S + O + A and the approval denominator D is S + O. After quorum and D > 0, ordinary decisions require 5 × S >= 3 × D; governance and purpose decisions require 3 × S >= 2 × D. Below three eligible contributors, ordinary decisions instead require 2 × S > D. Exactly 60 percent or two-thirds passes in its respective tier; do not round a failing percentage into approval.
+
+GOVERNANCE.md v1.0 defines the adopted procedure. Freeze the eligible roster, tier, quorum, rule version, and exact proposal at opening. Ordinary changes have seven-day review and voting windows; governance or purpose changes have fourteen-day windows. Separate unrelated decisions. A material edit requires renewed review and a fresh vote. Independent review is sought without creating an additional veto. R21 records Python governance as a limited precedent for the higher threshold; it does not validate this project's full design.
 
 Retain qualification links, ballot versions, timestamps, interests, exclusions, dissent, final text checks, and the merge commit. Maintainers implement valid results rather than exercising a second policy veto. Objective publication or procedural obstacles must be recorded and resolved openly. New substantive text after a vote needs renewed review. Routine faithful synchronization remains authorized. A general project license and stronger technical enforcement remain unresolved.
 
-The September 26 shift from advisory voting to contributor decisions is recorded as an explicit founding clarification, not as a community ballot that did not occur. No ballot automation or branch protection has been installed. Review the procedure after three completed proposals or 30 days of active participation, whichever occurs first; contributors may propose revisions sooner.
+The September 26 contributor-authority clarification and subsequent adoption of tiered governance are recorded as founding decisions, not community ballots that did not occur. No ballot automation or branch protection has been installed. Review the procedure after three completed proposals or 30 days of active participation, whichever occurs first; contributors may propose revisions sooner.
 
 
 ## Immediate research sequence
@@ -250,4 +252,4 @@ The September 26 shift from advisory voting to contributor decisions is recorded
 
 ## Evidence and publication limits
 
-The 20 source links are retained in REFERENCES.md and the generated editions. The originating conversation was truncated; completeness for unseen messages is not claimed. Retrieval does not establish full appraisal or validate the combined framework. The proposal remains a work in progress, and research or publication does not authorize policy implementation.
+The 20 original source links are retained in REFERENCES.md and the generated editions, alongside the added R21 governance precedent. The originating conversation was truncated; completeness for unseen messages is not claimed. Retrieval does not establish full appraisal or validate the combined framework. The proposal remains a work in progress, and research or publication does not authorize policy implementation.

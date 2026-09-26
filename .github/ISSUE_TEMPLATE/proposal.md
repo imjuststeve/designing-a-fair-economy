@@ -10,6 +10,9 @@ Draft. No vote is open. Facilitator, reviewed version, and dates: pending.
 ## Proposed change
 What exact wording or mechanism should change? Which files and sections are affected?
 
+## Proposed tier and scope
+Discussion only, ordinary substantive, or governance/central purpose? Explain the effect, not merely whether this is new text or a revision. Separate unrelated decisions. Ordinary adoption uses 60 percent (strict majority below three eligible contributors); governance and purpose use two-thirds. Quorum and frozen eligibility also apply. Record classification disputes before voting.
+
 ## Purpose and connections
 Which human outcome does this serve? How does it affect security, freedom, ownership, power, and the transition? If you propose changing the current goals or governance, state the revision explicitly; those are also open to vote.
 

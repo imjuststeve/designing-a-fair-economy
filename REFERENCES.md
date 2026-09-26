@@ -124,6 +124,12 @@ Retrieved; detailed evidence appraisal pending. Integrity implementation and ins
 
 Retrieved; detailed evidence appraisal pending. Reasonable accommodation and essential job functions; legal applicability needs qualified review.
 
+## R21 Python PEP 13 - Python Language Governance
+
+[Original source](https://peps.python.org/pep-0013/)
+
+Retrieved September 26, 2026. Its governance-amendment section requires at least two-thirds approval and a two-week vote. This is a procedural precedent for the project's higher tier and window, not evidence that our quorum, eligibility, or economic framework is effective. Python's council powers and membership process are not adopted here. The original R01-R20 sources and their recorded limitations remain unchanged.
+
 ## Evidence gaps
 
 R05 does not yet support the compensation-before-disruption claim. R13, R15, R17, and R18 were blocked in the recorded review. Army ROTC needs an official source before its contractual terms are used. Novelty, repayment value, political support, and expanded-ownership effects require additional research.

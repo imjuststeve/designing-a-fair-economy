@@ -1,5 +1,12 @@
 # Revision history
 
+## September 26, 2026 — Adopt tiered contribution governance
+
+- Adopted impact-based contribution paths: open discussion, reviewed editorial work, 60 percent substantive approval, and two-thirds for governance or purpose. All rules remain revisable.
+- Separated approval from participation: abstentions count toward quorum but not the approval denominator; added half-electorate quorum with a three-person minimum once three contributors are eligible. Preserved the small-group ordinary-majority exception.
+- Added frozen eligibility, classification safeguards, exact tally examples, longer governance review and voting windows, and distinct no-decision outcomes. Recorded founding adoption without inventing a community ballot.
+- Updated contributor and maintenance guidance, issue/PR and ballot templates, full plan, and generated editions. Preserved R01-R20 and added R21 as a limited governance precedent.
+
 ## September 26, 2026 — Revised approval threshold
 
 - Recorded the latest founding clarification: at least 60 percent approval once there are three or more contributors or voters; strict majority below three, with no minimum turnout quorum. This replaces the earlier threshold discussion before publication.

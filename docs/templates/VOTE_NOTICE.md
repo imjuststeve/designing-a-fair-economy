@@ -1,18 +1,22 @@
 # Voting notice
 
-Proposal issue:
-Facilitator:
-Exact version and commit:
-Summary of change:
-Independent review links:
-Evidence and unresolved concerns:
+Proposal issue and facilitator:
+Exact proposal version and commit:
+Summary of one coherent change:
+Tier and rationale (ordinary / governance or central purpose):
+Review opening and completion dates (at least 7 / 14 days):
+Independent review, evidence, objections, and classification disputes:
 Contribution qualification cutoff (vote opening):
+Frozen eligible roster with contribution links:
+Eligible contributor count C:
+Quorum Q (C >= 3: max(3, ceiling(C / 2)); C = 1 or 2: 1):
+Applicable approval threshold:
 Opens at (UTC):
-Closes at (UTC, seven full days after opening):
-Eligible contributor count C at opening and evidence:
-Applicable threshold (at least 60 percent if C >= 3 or N >= 3; otherwise strict majority):
-Rules version (link to GOVERNANCE.md at a commit):
+Closes at (UTC, 7 full days ordinary / 14 governance or purpose):
+Rule version (GOVERNANCE.md at an exact commit):
 
-Contributors decide adoption. Use SUPPORT, OPPOSE, or ABSTAIN with the exact proposal commit, a link to a qualifying contribution made before opening, your reason, and relevant interests. Reactions do not count. Post replacement ballots as new comments before closing.
+Use SUPPORT, OPPOSE, or ABSTAIN with the exact proposal commit, qualifying contribution link, reason, and relevant interests. Each person has one vote; reactions do not count. Post replacement ballots as new comments before closing. The last valid ballot counts.
 
-A revision requires at least 60 percent approval of total valid votes cast once there are three or more eligible contributors or voters. Below three, a strict majority wins. Explicit abstentions count in the total; non-voters do not. There is no minimum turnout quorum, and no valid ballots means no decision. For C >= 3 or N >= 3, require N > 0 and 5 × SUPPORT >= 3 × N; otherwise require N > 0 and 2 × SUPPORT > N. Exactly 60 percent passes. Independent review is encouraged, not a veto. No founder override applies. All decisions and this rule remain revisable.
+Participation P = SUPPORT + OPPOSE + ABSTAIN. Approval denominator D = SUPPORT + OPPOSE. Abstentions count toward quorum only; non-voters count toward neither. Require P >= Q and D > 0. Ordinary decisions require 5 × SUPPORT >= 3 × D (60 percent), except C < 3 uses 2 × SUPPORT > D (strict majority). Governance and purpose changes require 3 × SUPPORT >= 2 × D (two-thirds) at every group size. Exactly the threshold passes; do not round a failing share up.
+
+Missing quorum or D = 0 means no decision. A sufficient-turnout vote below its approval threshold is not adopted. A passing vote directs faithful integration without a second policy approval or founder override. Everything remains revisable. Material changes to proposal text require renewed review and a fresh vote; rules and eligibility cannot be changed mid-vote.

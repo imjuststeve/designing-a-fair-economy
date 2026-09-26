@@ -107,7 +107,7 @@ This repository is the living project record. New ideas are integrated as the di
 
 - [Complete current project plan](docs/PROJECT_PLAN.md): editable source for the full concept, goals, proposed mechanisms, research work, and review process.
 - [Current plan PDF](docs/Economic_Transition_Project_Plan.pdf) and [text edition](docs/PROJECT_PLAN.txt): generated from the complete plan and reference register.
-- [Reference register](REFERENCES.md): all 20 links captured from the visible source discussion, with recorded limitations and evidence gaps.
+- [Reference register](REFERENCES.md): all 20 original links, plus the R21 governance precedent, with recorded limitations and evidence gaps.
 - [Decisions and open questions](docs/DECISIONS.md): adopted documentation directions, proposals, and unresolved choices.
 - [Project maintenance instructions](AGENTS.md): the standing workflow for future contributors and assistants.
 - [Revision history](CHANGELOG.md): substantive changes and their purpose. Superseded documents remain in Git history.
@@ -147,7 +147,9 @@ Evaluate fiscal costs, real resource requirements, and distributional effects se
 
 Reviewers can begin with the [contribution guide](CONTRIBUTING.md) and [governance process](GOVERNANCE.md). Submit a [review](https://github.com/imjuststeve/designing-a-fair-economy/issues/new?template=review.md) or [proposal](https://github.com/imjuststeve/designing-a-fair-economy/issues/new?template=proposal.md). No coding or formal credential is required.
 
-The process is proposal, evidence review, revision, contributor vote, recorded result, and faithful integration through a reviewed pull request. Contributors qualify through traceable project work; agreement with the current position or acceptance of their contribution is not required. The founder has no unilateral veto. Every decision, goal, mechanism, and governance rule remains revisable by a later vote. Votes determine adoption but do not establish factual truth or automatically perform a merge. A revision requires at least 60 percent approval of total valid votes cast once there are three or more eligible contributors or voters. Below three, a strict majority wins. Explicit abstentions count in the total; non-voters do not. There is no minimum turnout quorum, and no valid ballots means no decision. Timing and contribution cutoff remain provisional operating rules documented in GOVERNANCE.md.
+The process is proposal, evidence review, revision, contributor vote, recorded result, and faithful integration through a reviewed pull request. Contributors qualify through traceable work; acceptance or agreement is not required. The founder has no unilateral veto. All decisions and rules remain revisable.
+
+Ideas and evidence can enter discussion without becoming adopted positions; faithful editorial corrections use maintainer review. Substantive additions, revisions, and removals require at least 60 percent approval. Governance, voting rights, and central-purpose changes require at least two-thirds. Approval excludes abstentions; abstentions count toward participation. Once three contributors are eligible, quorum is at least half of the eligible roster, rounded up, with a minimum of three. Below three eligible contributors, ordinary decisions use a strict majority with at least one participant; the two-thirds governance threshold still applies. Missing quorum or no expressed preferences means no decision. Ordinary changes have seven-day review and voting windows; governance and purpose changes have fourteen-day windows. See GOVERNANCE.md for exact counting, frozen eligibility, and dispute procedures.
 
 The [decision record](docs/DECISIONS.md) links adopted positions to their reasons. Templates support proposal submission, review, voting notices, decision records, and final edits. Branch protection and vote automation are not configured by these documents; maintainers must follow the published process.
 
