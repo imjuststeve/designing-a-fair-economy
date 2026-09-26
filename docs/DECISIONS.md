@@ -2,13 +2,15 @@
 
 Updated September 26, 2026. This register records the available discussion, not a recovered complete transcript.
 
-## Adopted documentation decisions
+## Founding directions and documentation decisions
 
 - D001 — September 26: Restore the underlying purpose and the relationship between freedom, security, ownership, power, and a survivable transition. Owner authorized the reviewed rationale update.
 - D002 — September 26: Treat this repository as the living project. Integrate new ideas as project discussions develop, refresh affected documentation, and preserve the complete concept in future updates.
 - D003 — September 26: Ask at a meaningful checkpoint when inclusion, interpretation, or adoption is unclear. Routine documentation updates do not require repeated approval.
 
-- D004 — September 26: Owner requested third-party review and development of evaluation, voting, and integration procedures. The initial process preserves existing owner authority. Provisional seven-day windows, participation targets, and ballot mechanics are assistant-designed trial defaults, not explicit owner adoption of permanent governance.
+- D004 — Superseded by D005 — September 26: Owner requested third-party review and development of evaluation, voting, and integration procedures. The initial process preserves existing owner authority. Provisional seven-day windows, participation targets, and ballot mechanics are assistant-designed trial defaults, not explicit owner adoption of permanent governance.
+
+- D005 — September 26: Founder explicitly confirmed that contributors vote to determine adoption, all content and governance are revisable, contributors qualify to vote, and there is no unilateral founder veto. This founding clarification supersedes D004's advisory model. It is not a claimed community ballot.
 
 ## Guiding direction
 
@@ -28,7 +30,7 @@ The current purpose and interconnected goals are presented in PROJECT_PLAN.md an
 - P007 — Specific ownership funds, taxes, borrowing arrangements, benefit design, and governance mechanisms.
 - P008 — Use a United States civilian case study as a manageable initial modeling context; this is not an adopted geographic restriction.
 
-- P009 — Contributor governance: trial advisory voting and reviewed integration are documented in GOVERNANCE.md. Binding community authority, eligibility for binding votes, licensing, independent moderation, and eventual delegated stewardship remain open.
+- P009 — Contributor decision authority and universal revisability are now established by D005. The v0.2 mechanics for contribution cutoff, seven-day windows, three-participant minimum, independent review, and majority counting are provisional implementation rules open to contributor revision. Technical enforcement, licensing, and distributed maintainer access remain unresolved.
 
 ## Priority open questions
 
@@ -40,4 +42,4 @@ The current purpose and interconnected goals are presented in PROJECT_PLAN.md an
 6. What service compensation, duration, placement choices, accommodations, and exit terms preserve practical freedom?
 7. Which evidence would warrant expansion, revision, or rejection of each candidate mechanism?
 
-Record future decisions with an ID, date, exact scope, rationale, supporting or conflicting evidence, affected documents, and review trigger. Mark suggestions as proposed until adoption is clear.
+Record future decisions with an ID, date, exact scope, rationale, supporting or conflicting evidence, affected documents, and review trigger. Mark substantive suggestions as proposed until a valid contributor vote adopts them. Record founder directions accurately without labeling them as community votes.

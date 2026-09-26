@@ -1,5 +1,5 @@
 ## Linked proposal and decision
-Issue, reviewed version, vote record if substantive, and owner decision. If editorial or evidence-only, explain that classification.
+Issue, reviewed version, vote record if substantive, and recorded voting result. If editorial or evidence-only, explain that classification.
 
 ## What changes and why
 Purpose served and effects on the complete framework.
@@ -16,4 +16,4 @@ Sources, alternatives, unresolved objections, minority view, and material change
 - [ ] Final diff matches the reviewed proposal; new substantive changes have renewed review.
 
 ## Approval and completion
-Owner approval must identify the final commit. Maintainer records the merge commit and closes the linked proposal only after verification.
+A final text check must confirm that this commit faithfully implements the voted proposal; no additional founder approval is required. Maintainer records the merge commit and closes the linked proposal only after verification.

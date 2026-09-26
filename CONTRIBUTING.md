@@ -2,7 +2,7 @@
 
 Contributors are welcome to review the reasoning, challenge claims, supply evidence, and propose changes. You do not need to write code or hold formal credentials. Lived experience, counterexamples, and practical implementation concerns are useful when their scope is clear.
 
-Start with the [purpose and overview](README.md), [complete plan](docs/PROJECT_PLAN.md), and [governance process](GOVERNANCE.md). Preserve the relationship between security, practical freedom, diverse outcomes, ownership, power, and a survivable transition.
+Start with the [purpose and overview](README.md), [complete plan](docs/PROJECT_PLAN.md), and [governance process](GOVERNANCE.md). Explain how your contribution affects the relationship between security, practical freedom, diverse outcomes, ownership, power, and a survivable transition. These goals are the current framework; they can also be revised through contributor voting.
 
 ## Start reviewing
 
@@ -29,18 +29,20 @@ Mark each area supported, uncertain, concern, or not applicable, with reasons. D
 
 ## Voting and decisions
 
-The first version uses public advisory ballots and a documented owner decision. It does not yet delegate binding policy authority to a community vote. See [the complete voting rules](GOVERNANCE.md) for participation, counting, revisions, and low-turnout handling. Reactions and stars do not count as ballots.
+Contributors decide adoption by vote. Every decision, including the goals and governance rules, can be revised by a later valid vote. The founder has one vote on the same terms as other contributors and no unilateral veto.
 
-A positive vote or accepted proposal is not yet an integrated change. The final edited text must be reviewed and merged through a linked pull request. The decision record connects proposal, vote, reasoning, pull request, and commit.
+A traceable contribution qualifies you: proposals, reviews, explained evidence, relevant lived experience, analysis, editing, and accessibility work can count. Your work need not be accepted or agree with the current proposal. Link to a contribution made before the vote opened. A star, reaction, or ballot alone does not establish eligibility. See [the complete rules](GOVERNANCE.md) for the provisional cutoff, minimum participation, counting, and disputes.
+
+Adoption and publication are distinct stages. Maintainers must faithfully integrate an adopted change through a linked reviewed pull request; they do not make a second discretionary policy decision. Record the proposal, vote, dissent, final diff check, and published commit. Reactions are not ballots and votes do not establish factual truth.
 
 ## Submit work you can share
 
 Cite source URLs and passages, preserve reference IDs, and explain scope limits. Do not upload full copyrighted articles, private data, or material you lack permission to publish. Identify AI assistance and verify the factual claims it helped produce. Humans remain responsible for submissions and ballots.
 
-No general project license has been selected. Reviews can begin now. Before merging substantial contributed text, the maintainer must record the contributor's explicit permission to include that text in this public repository with attribution, or applicable license terms. This does not settle the project's future reuse license or transfer copyright. A broader contribution and licensing policy remains an owner decision.
+No general project license has been selected. Reviews can begin now. Before merging substantial contributed text, the maintainer must record the contributor's explicit permission to include that text in this public repository with attribution, or applicable license terms. This does not settle the project's future reuse license or transfer copyright. A broader contribution and licensing policy remains a contributor-governance decision; a vote cannot grant publication rights held by someone else.
 
 ## Conduct and review expectations
 
 Critique claims and proposals rather than attacking people. Disagreement and minority views are welcome. Harassment, threats, impersonation, spam, and deliberate ballot manipulation may be moderated. Disclose relevant financial, organizational, or authorship interests without posting private personal information.
 
-Maintainers should explain status changes and exclusions publicly, except where doing so would expose private information or repeat abusive material. Request reconsideration by linking the decision and stating the new evidence or process concern. Response times are targets, not guarantees; no response means pending, not accepted.
+Maintainers should explain status changes and exclusions publicly, except where doing so would expose private information or repeat abusive material. Request reconsideration by linking the decision and explaining the revision, whether based on new evidence, a process concern, or a reasoned change of judgment. Response times are targets, not guarantees; no response means pending, not accepted.

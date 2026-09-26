@@ -4,7 +4,7 @@ Designing a Fair Economy Project Plan
 
 Living research framework v0.2 | September 26, 2026
 
-Project owner: Steve Smith
+Project founder: Steve Smith · Project positions decided by contributor vote
 
 This is the complete working concept and research plan. It explains the intended human outcomes, the reasons behind the proposed direction, the candidate mechanisms, and the work needed to assess them. It remains a work in progress.
 
@@ -143,7 +143,7 @@ Education for service design questions
 
 - Acceptance and accrual: distinguish signing, enrollment, and funding disbursement. Examine a cooling-off period, reversed or small payments, a fixed minimum, funded-year accrual, and a maximum obligation.
 - Eligibility and benefit: consider admissions, residency, prior education, program quality, tuition caps, living support, part-time study, and vocational pathways. Test price inflation and low-value enrollment.
-- Compensation and conditions: examine salary, benefits, wage parity, hours, caregiving, relocation, part-time equivalence, and representation. Paid service remains a recommendation pending an explicit decision on terms.
+- Compensation and conditions: examine salary, benefits, wage parity, hours, caregiving, relocation, part-time equivalence, and representation. Paid service remains a recommendation pending contributor adoption of its terms.
 - Placement: define useful public benefit, approved employers, participant choice, local and remote work, supervision, and maximum waiting time. Specify relief when government cannot provide suitable work.
 - Disability and hardship: match duties to actual capability; examine accommodations, episodic conditions, changed circumstances, caring duties, postponement, and appeals. Resolve genuine inability without presuming that study proves sustained employment capacity.
 - Withdrawal and breach: compare transfer, proportionate repayment, hardship relief, and government breach. Assess whether a nominally voluntary contract preserves practical exit options. Obtain qualified legal review before relying on enforceability.
@@ -219,7 +219,7 @@ For each scenario record affected people, mechanism of harm, leading indicators,
 
 Governance of this research project
 
-Steve sets priorities and adopts or rejects project positions. Research support collects evidence, compares alternatives, preserves assumptions, and maintains versions. Independent reviewers may cover economics, finance, labor, disability access, public administration, and law; their participation is not assumed.
+Contributors adopt and revise project positions by vote. Steve is the founder and initial coordinator, with the same voting rights as other contributors and no unilateral veto. All goals, principles, mechanisms, and governance rules remain revisable. Research support collects evidence, compares alternatives, preserves assumptions, and maintains versions. Independent reviewers may cover economics, finance, labor, disability access, public administration, and law; their participation is not assumed.
 
 Maintain a decision log, claim register, and risk register. Decisions should include ID, date, scope, rationale, evidence, affected documents, and review trigger. Claims require the exact assertion, source passage, date, jurisdiction, counterevidence, and limitations. The current decision record is docs/DECISIONS.md.
 
@@ -229,11 +229,16 @@ Contributor review and integration
 
 Open the inquiry to outside reviewers through CONTRIBUTING.md and GOVERNANCE.md. Contributors can challenge claims, offer evidence or lived experience with clear scope, and propose changes without coding or formal credentials. Review must assess the complete purpose, evidence, feasibility, distribution, freedom and power, and alternatives.
 
-The initial process is a versioned proposal, substantive review, revision, an advisory ballot on a frozen text, a documented owner decision, and integration through a reviewed pull request. Seven-day review and voting windows and a target of three non-author ballots plus an independent review are provisional trial defaults. Record low turnout and disputed ballots honestly. Votes do not establish empirical truth or automatically approve a merge. Existing owner authority remains until explicitly changed.
+The process is a versioned proposal, substantive review, revision, a contributor ballot on a frozen text, a recorded result, and faithful integration through a reviewed pull request. People qualify through traceable project work, including proposals, reviews, explained evidence, relevant lived experience, analysis, and editing. A contribution need not be accepted or agree with the current position. The founder has no unilateral veto; each contributor has one vote.
 
-Retain reasons, dissent, exclusions, interests, proposal versions, final approval, and the merge commit in the decision record. Update all affected parts of the living project and regenerate its editions. New substantive text after a vote needs renewed review. Plain editorial maintenance may use a shorter review path. Contributors must have permission to publish submitted material; a general project license remains unresolved.
+Adopted decisions guide the current project until revised or reversed by a later valid vote. Everything is revisable, including the purpose, principles, mechanisms, voter criteria, and governance itself. Contributors can propose a reasoned change of judgment without needing new empirical evidence. A vote selects the project's position and does not establish empirical truth.
 
-This initial governance design is itself open to review. Binding voter authority, eligibility, delegation, and stronger technical enforcement require explicit decisions. No ballot automation or branch protection has been installed by the documentation update. The first review checkpoint is after three completed proposals or 30 days of active participation, whichever occurs first.
+GOVERNANCE.md defines provisional operating mechanics: contributions precede the announced vote opening; review and voting each last seven days; at least three eligible contributors participate and a non-author provides substantive review; support must exceed half of non-abstaining ballots. A tie, missing participation, or no expressed preference leaves the current position in place. These mechanics are implementation defaults open to contributor revision, not separately founder-approved preferences. There is no low-turnout founder override.
+
+Retain qualification links, ballot versions, timestamps, interests, exclusions, dissent, final text checks, and the merge commit. Maintainers implement valid results rather than exercising a second policy veto. Objective publication or procedural obstacles must be recorded and resolved openly. New substantive text after a vote needs renewed review. Routine faithful synchronization remains authorized. A general project license and stronger technical enforcement remain unresolved.
+
+The September 26 shift from advisory voting to contributor decisions is recorded as an explicit founding clarification, not as a community ballot that did not occur. No ballot automation or branch protection has been installed. Review the procedure after three completed proposals or 30 days of active participation, whichever occurs first; contributors may propose revisions sooner.
+
 
 Immediate research sequence
 
@@ -245,9 +250,7 @@ Immediate research sequence
 
 Evidence and publication limits
 
-All 20 links visible in the source discussion are retained in REFERENCES.md and included in the generated editions. Earlier conversation content was truncated, so completeness for unseen messages is not claimed. Retrieved means accessible at the recorded check, not fully appraised. References address particular questions and do not validate the combined framework.
-
-The project remains a work in progress. Its purpose is explicit; the affordability, effectiveness, enforceability, and public acceptance of its mechanisms remain to be established. Publication and research maintenance do not imply authority to implement policy.
+The 20 source links are retained in REFERENCES.md and the generated editions. The originating conversation was truncated; completeness for unseen messages is not claimed. Retrieval does not establish full appraisal or validate the combined framework. The proposal remains a work in progress, and research or publication does not authorize policy implementation.
 
 
 Reference register

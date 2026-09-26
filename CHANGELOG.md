@@ -1,5 +1,12 @@
 # Revision history
 
+## September 26, 2026 — Contributor decisions and universal revisability
+
+- Recorded the founder's explicit clarification: contributor votes determine adoption; everything remains revisable; contributors qualify to vote; there is no unilateral founder veto.
+- Replaced the advisory and owner-approval model across current guidance, templates, decision records, and the full plan. Historical entries below describe superseded states.
+- Defined contribution-based eligibility without requiring prior acceptance, separated technical integration from policy authority, and documented provisional participation and majority rules subject to contributor revision.
+- Retained references, updated generated editions, and preserved the distinction between this founding direction and a community vote.
+
 ## September 26, 2026 — Open contribution and governance process
 
 - Added contributor guidance, proposal and review issue templates, a pull-request template, and voting and decision templates.

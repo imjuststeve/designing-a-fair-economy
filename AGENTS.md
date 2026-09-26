@@ -2,7 +2,7 @@
 
 These instructions apply to the entire repository and to all assistants working on Designing a Fair Economy.
 
-## Standing authorization from the project owner
+## Standing authorization and contributor authority
 
 On September 26, 2026, Steve Smith directed that this repository be the living project, that all documentation present the complete concept and goals, and that new ideas discussed in project work be integrated into it. Routine project documentation updates are authorized; do not ask for permission again merely to record a discussion or maintain consistency.
 
@@ -12,7 +12,7 @@ At a meaningful checkpoint, ask a focused question if it is unclear whether an i
 
 Every substantive revision must preserve the connections among practical freedom, economic security, diverse ambitions and outcomes, broader participation in productive wealth, contestable power, adaptive governance, and an affordable and survivable transition. Explain why mechanisms exist and how they serve those purposes. Education-for-service is one candidate mechanism within the framework; do not let the most recent topic replace the overall mission.
 
-Distinguish guiding values, working proposals, adopted decisions, empirical evidence, and open questions. Do not dilute the purpose merely because implementation is uncertain. Do not claim a proposal works merely because it expresses the purpose well. Preserve dissent and the limits of the available originating conversation.
+Distinguish guiding values, working proposals, adopted decisions, empirical evidence, and open questions. Do not dilute the purpose merely because implementation is uncertain. Preserve the currently adopted framework in routine edits; its goals and every governance rule are open to explicit revision by contributor vote. Do not use preservation instructions as immutable constraints or as grounds to exclude proposals for change. Do not claim a proposal works merely because it expresses the purpose well. Preserve dissent and the limits of the available originating conversation.
 
 ## Update workflow
 
@@ -31,4 +31,6 @@ The update practice operates during project work sessions with repository access
 
 ## Third-party contributions
 
-Use the published governance process for external proposals and substantive changes. Routine synchronization remains authorized. Preserve advisory ballot records, evidence, minority views, contributor permissions, and the final owner decision. Do not turn vote counts into factual proof or silently adopt binding voting authority. Integrate accepted changes through a linked reviewed pull request; keep the full project and generated editions aligned.
+Use the published governance process for substantive proposals from any contributor, including the founder. Contributors with traceable project work decide adoption by vote; the founder has no unilateral veto. Every decision, goal, and rule is revisable through that process. Routine synchronization remains authorized, but a new idea from any individual must be recorded as proposed until adopted by a valid vote. This September 26 authority change is an explicit founding clarification, not a fictitious community vote.
+
+Preserve qualification evidence, ballots, reasons, minority views, contributor permissions, and the recorded result. Do not turn vote counts into factual proof. Integrate adopted text through a linked reviewed pull request without a second discretionary owner approval. Distinguish technical permissions from policy authority, and record objective integration obstacles instead of silently overruling a vote. Keep the full project and generated editions aligned.

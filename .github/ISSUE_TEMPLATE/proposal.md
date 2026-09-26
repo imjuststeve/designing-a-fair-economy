@@ -11,7 +11,7 @@ Draft. No vote is open. Facilitator, reviewed version, and dates: pending.
 What exact wording or mechanism should change? Which files and sections are affected?
 
 ## Purpose and connections
-Which human outcome does this serve? How does it affect security, freedom, ownership, power, and the transition?
+Which human outcome does this serve? How does it affect security, freedom, ownership, power, and the transition? If you propose changing the current goals or governance, state the revision explicitly; those are also open to vote.
 
 ## Evidence and uncertainty
 Sources, passages, dates, applicable jurisdictions, counterevidence, and unresolved claims.

@@ -1,7 +1,7 @@
 # Designing a Fair Economy
 
 **Economic Transition Framework — work in progress**
-Project owner: Steve Smith
+Project founder: Steve Smith · Project positions decided by contributor vote
 Purpose revision: September 26, 2026 · Original research plan: September 24, 2026
 
 ## Purpose
@@ -147,7 +147,7 @@ Evaluate fiscal costs, real resource requirements, and distributional effects se
 
 Reviewers can begin with the [contribution guide](CONTRIBUTING.md) and [governance process](GOVERNANCE.md). Submit a [review](https://github.com/imjuststeve/designing-a-fair-economy/issues/new?template=review.md) or [proposal](https://github.com/imjuststeve/designing-a-fair-economy/issues/new?template=proposal.md). No coding or formal credential is required.
 
-The initial process is proposal, evidence review, revision, public advisory vote, documented owner decision, and integration through a reviewed pull request. Votes do not establish factual truth or automatically merge changes. The complete purpose remains the basis for evaluation. Timing and participation targets are provisional; binding community authority remains an open governance decision.
+The process is proposal, evidence review, revision, contributor vote, recorded result, and faithful integration through a reviewed pull request. Contributors qualify through traceable project work; agreement with the current position or acceptance of their contribution is not required. The founder has no unilateral veto. Every decision, goal, mechanism, and governance rule remains revisable by a later vote. Votes determine adoption but do not establish factual truth or automatically perform a merge. Timing, contribution cutoff, and participation mechanics are provisional operating rules documented in GOVERNANCE.md.
 
 The [decision record](docs/DECISIONS.md) links adopted positions to their reasons. Templates support proposal submission, review, voting notices, decision records, and final edits. Branch protection and vote automation are not configured by these documents; maintainers must follow the published process.
 

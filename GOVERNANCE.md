@@ -1,70 +1,77 @@
 # Contribution governance
 
-Working process v0.1 — September 26, 2026.
+Working process v0.2 — September 26, 2026.
 
-The owner has requested third-party review and a system for evaluating, voting on, and integrating contributions. The procedure below is an initial operational design. Review windows and participation targets are provisional defaults to test. The existing authority remains: Steve Smith makes final project-position decisions. Binding voting rights, elected stewards, and a transfer of authority are open governance proposals, not adopted changes.
+## Authority and revisability
 
-The governance of this repository should itself be open to criticism. Current owner authority is explicit; this small research project does not claim already to implement the distributed governance it studies.
+Contributors determine adoption by vote. An adopted decision directs the current project until a later valid vote changes or reverses it. Nothing in the project is permanently settled: goals, principles, mechanisms, wording, membership criteria, voting procedures, and governance itself can be revised.
+
+Steve Smith confirmed this direction on September 26, 2026, including that contributors qualify to vote and the founder has no unilateral veto. The founder participates on the same voting terms as other contributors. Repository ownership and merge permissions are administrative capabilities; they do not grant additional policy authority.
+
+This supersedes the initial advisory-vote and owner-approval model. It does not turn earlier proposals into adopted policies or turn previous discussion into a recorded community vote. The founding clarification is recorded as such in docs/DECISIONS.md.
+
+## Who qualifies to vote
+
+A person qualifies through a publicly traceable contribution to this project: a concrete proposal, substantive review or critique, relevant evidence with explanation, documented lived experience tied to an issue, analysis, editing, accessibility work, or other identifiable project work. A proposal need not be accepted, and a critique need not agree with the current position. Qualification must not depend on founder approval, ideology, credentials, donations, employment, or write access.
+
+A reaction, star, empty endorsement, spam, or a ballot alone does not establish a contribution. A relevant first contribution made during proposal review qualifies that person for the subsequent vote. Each ballot includes a link to a contribution made before the announced voting window opened. Contributors joining after that cutoff participate in discussion and subsequent votes. This cutoff is a provisional operating rule, itself revisable.
+
+Each person has one vote, including an author voting on their own proposal. Use one account per person. Pseudonyms are welcome; no identity documents are required. Organizations and automated accounts do not receive separate votes. Expertise informs reasons, not voting weight. Disclose relevant interests without publishing private information.
+
+The contribution link is evidence of qualification; a maintainer's acceptance of the contribution is not required. Publish qualification disputes and reasons. A rejected proposal does not remove its author's voting rights. Open account participation cannot guarantee identity uniqueness; record credible manipulation concerns and handle them under the dispute procedure below.
 
 ## Roles
 
-- Contributor: submits ideas, evidence, reviews, or edits. No degree, financial contribution, or write permission is required to participate.
-- Reviewer: evaluates a defined proposal using the contribution criteria and discloses relevant interests. Expertise informs reasons, not extra ballots.
-- Facilitator: the owner or a publicly named delegate who tracks status, prepares a neutral review summary, opens a vote, and records the tally. This role does not independently confer adoption authority.
-- Decision owner: Steve, until an explicit governance decision delegates authority. Records acceptance, revision requests, deferral, or rejection and the reasons.
-- Integrator: prepares and merges the accepted wording after review. Write access is a technical permission, not independent authority to adopt project positions.
+- Contributor: proposes, reviews, supplies evidence, votes, and may seek reconsideration.
+- Facilitator: organizes review, posts a neutral voting notice, records eligibility and the tally, and documents the result. The initial coordinator is Steve; contributors can replace or delegate this role by vote. A facilitator cannot override a valid result.
+- Integrator: prepares and merges the text that the vote adopted, checks consistency, and records the published commit. Technical discrepancies must be corrected without altering the adopted meaning.
+- Reviewer: evaluates evidence, feasibility, distribution, freedom, power, and alternatives. Where possible, someone other than the author checks the final edit and tally.
+
+No role holds a unilateral veto. Contributors can replace role holders and revise role powers by vote. A contributor may post a complete voting notice when a facilitator is unavailable; access to a formal title must not become a gate on proposals. Competing notices for the same version should be reconciled publicly before voting proceeds.
 
 ## Contribution paths
 
-Editorial fixes, broken links, and faithful synchronization of an already adopted position may use a short pull-request review without a ballot. A disputed correction or any change to meaning enters substantive review. Standalone evidence can be added as evidence without adopting the policy it favors, provided source and claim checks are recorded.
+Editorial corrections, repaired links, and faithful synchronization of adopted text may use a short pull-request review without a policy ballot. Evidence may be recorded with its limitations without adopting the policy it favors. A disputed correction or change of meaning enters substantive review.
 
-Substantive mechanisms, changes to goals, conclusions, obligations, or governance follow the full process. The owner's own substantive proposals follow it as well once contributor review is open. Routine maintenance and this initial process setup are not retroactively subject to a ballot. Any urgent departure must be identified and explained; it must not be described as community approval.
+All substantive changes, including founder proposals and changes to the current goals or governance, use the voting process. Explain how a proposed revision affects the full concept; disagreement with current goals is not itself grounds to exclude it. Existing text remains operative until a valid replacement is adopted.
 
-## Workflow
+## Review and voting
 
-1. Draft: open an issue with the proposal template. Use its issue number as the proposal ID. Explain what changes, why, and how it affects the whole framework.
-2. Triage: a facilitator checks scope, duplicates, missing context, and the appropriate path. Target an initial response within seven days of active maintenance; if capacity is unavailable, leave it visibly pending.
-3. Review: allow at least seven calendar days for substantive comments. Seek evidence, an assessment of affected people, and at least one review independent of the author. Record missing perspectives instead of inventing reviewers.
-4. Revision: the author or integrator addresses objections. Preserve earlier versions and summarize changes. A proposal may remain exploratory or be deferred when evidence is inadequate.
-5. Ballot: freeze an exact version in a linked commit or immutable pull-request commit. A facilitator posts the voting notice, unresolved concerns, and opening and closing times in UTC. Default duration is seven full days. Do not change the version during the vote.
-6. Decision: publish the tally and an evidence-based explanation. Owner chooses accept, revise, defer, or reject. Explain any departure from the majority recommendation. An unresolved severe concern about evidence, rights, or feasibility can justify deferral despite support.
-7. Integration: prepare or finalize a pull request containing the accepted changes, the relevant plan sections, references, decisions, changelog, and generated editions. Review the final diff against the voted version. Owner approval must refer to that final commit; a later substantive edit requires renewed review and a new ballot.
-8. Closeout: merge, verify the published files, record the merge commit, and close the issue as integrated. Track review triggers and reopen when new evidence materially changes the decision.
+1. Draft: open a proposal issue. State the exact change, reasons, evidence, uncertainties, alternatives, affected people, and connections to the full project. Its issue number is the proposal ID.
+2. Review: allow at least seven calendar days for substantive comments and seek a review independent of the author. Record missing evidence and objections. The author revises the proposal with a visible change history.
+3. Freeze: link the exact proposal to a commit. Publish opening and closing timestamps in UTC, the contribution cutoff, qualification criteria, rule version, unresolved concerns, and ballot format. The voting window lasts seven full days. Do not change the rules or proposal mid-vote.
+4. Vote: eligible contributors post SUPPORT, OPPOSE, or ABSTAIN in a new top-level issue comment, with the frozen commit, contribution link, reasons, relevant interests, and any superseded ballot link. Reactions do not count.
+5. Tally: count each person's last valid new ballot posted within the window. Preserve comment links, timestamps, choices, contribution links, disclosed interests, and exclusions. A replacement ballot must be a new comment; flag edits made after closing.
+6. Determine the result under the rules below. Record evidence, dissent, and the outcome. A maintainer reports the result rather than choosing whether to honor it.
+7. Integrate accepted text through a linked pull request. Check the final diff against the voted version, update affected documentation and references, regenerate editions, and record the merge commit. Material changes require another review and vote; faithful editorial integration does not.
+8. Reconsider whenever a contributor proposes a revision. Earlier decisions remain traceable in history; none is immune to replacement.
 
-Record stage in the issue's opening status block; labels are optional and are not required for this process to work. Accepted awaiting integration and integrated are distinct states. An open pull request does not imply adoption.
+## Provisional operating rules for results
 
-## Ballots
+The voting authority and universal revisability above are founder-confirmed. The following mechanics are initial implementation defaults, subject to contributor revision rather than claims of separately approved founder preferences:
 
-During the announced window, post a new top-level comment in the proposal issue:
+- Require at least three eligible contributors to cast valid ballots and at least one substantive review by someone other than the author. Authors count toward participation; no special voting weight applies.
+- Abstentions count toward participation but not the approval denominator. Adopt if SUPPORT is strictly more than half of SUPPORT plus OPPOSE and the participation and review requirements are met.
+- If OPPOSE has a strict majority under those same conditions, the proposal is not adopted. A tie, no non-abstaining ballots, or unmet participation or review requirements means no decision; existing wording remains current.
+- Publish the turnout and limits. With fewer than three participating contributors, a substantive proposal waits for participation or an already validly adopted change to these rules. There is no founder override or low-turnout escape that substitutes a personal decision for a vote.
+- A failed or inconclusive proposal can be revised and resubmitted. Record the relationship to earlier versions.
 
-    Ballot: SUPPORT / OPPOSE / ABSTAIN
-    Proposal version: <commit SHA>
-    Reason: <brief explanation>
-    Relevant interests: <disclosure or none>
-    Supersedes: <earlier ballot link, if changing a vote>
+The first contributor governance review should assess these defaults after three completed proposals or 30 days of active participation, whichever occurs first. This is a review checkpoint, not a scheduled automation. Contributors may propose changes sooner.
 
-Anyone participating as an individual may cast one ballot. Use one GitHub account per person; pseudonyms are allowed and identity documents are not required. Organizations and automated accounts do not get separate ballots. The author may vote and must disclose authorship. Affiliations do not automatically invalidate a person's vote, but relevant ties must be disclosed.
+## Evidence, disputes, and reconsideration
 
-The most recent valid new ballot comment submitted by that account before closing counts. Do not edit an old ballot to change it; post a replacement that links to it. Capture comment links, account names, timestamps, version, choices, and disclosed interests in the closing record. Flag edits affecting a ballot after the deadline instead of silently counting changed content. Manual review and public records are the initial mechanism; there is no automatic vote bot or identity verification.
+Voting selects the project's current position; it does not establish empirical truth. Preserve uncertainty and contrary evidence even when contributors adopt a policy. New evidence may motivate opposition, withdrawal by the author before adoption, or a fresh revision vote. A facilitator cannot cancel an unwanted result by declaring the evidence inadequate.
 
-Count support, oppose, and abstain separately. Report support divided by support plus oppose; if that denominator is zero, report no expressed preference. Strictly more than half of non-abstaining ballots means a favorable advisory tally. A tie is no majority. Neither result automatically authorizes a merge.
+Exclude ballots only for an identified rule violation such as lateness, wrong version, lack of a qualifying contribution, duplication, or evidenced automation or impersonation. Publish reasons and allow challenge; do not treat a new account or unpopular opinion as evidence of manipulation. Record disputed ballots and both possible tallies. If a dispute cannot affect the outcome, integrate the uncontested result while recording the concern. If it could change the result, pause integration and seek a contributor vote on the specific procedural question, with independent review and the disputed identities disclosed. Do not claim consensus when identity or eligibility remains unresolved.
 
-The provisional participation target is three valid non-author ballots and at least one substantive review independent of the author. If either is missing, mark participation limited; never describe a small turnout as community consensus. The owner may defer, extend the window before it closes, or make a clearly labeled owner decision with the participation limitation recorded. Do not change thresholds mid-vote. No universal quorum for binding decisions is established.
+Implementation may be paused for a concrete technical mismatch, missing rights to publish submitted material, or an outcome-changing procedural dispute. State the exact obstacle and route to resolution. Such a pause is not authority to reject or rewrite an adopted position. Document delays; contributors may replace the facilitator or integrator by vote. Technical account control can still obstruct publication in practice, so the project must not claim the social rule is technically enforced.
 
-Exclusions require a stated reason such as duplicate ballots, wrong version, lateness, automated activity, or evidenced manipulation. A new account or an unpopular view alone is not a sufficient reason. Preserve an exclusion log and a route to challenge it; do not publicly expose private data. If integrity cannot be established, mark the tally disputed and defer or rerun it. Open account voting cannot reliably prove one person per account; it remains advisory for that reason as well.
+Any contributor may propose reconsideration for new evidence, changed circumstances, a process error, or a reasoned change of judgment. New evidence is not a prerequisite for changing values or governance. Governance changes are decided under the rules in force when their vote opens and take effect prospectively; they cannot retroactively change an existing tally. There are no permanently protected clauses.
 
-Material changes require a new version and a fresh ballot. New decisive evidence discovered during voting should pause the process with reasons recorded. Restart with a new full window when ready. Cosmetic corrections can proceed only if they do not alter meaning and are explicitly documented.
+## Integration and platform limits
 
-## Decisions and reconsideration
+Use docs/templates/DECISION_RECORD.md and add adopted decisions to docs/DECISIONS.md. Keep accepted awaiting integration distinct from integrated. The record connects the proposal, frozen version, rules, qualification evidence, ballots, dissent, pull request, verification, and merge commit.
 
-Use docs/templates/DECISION_RECORD.md and add adopted decisions to docs/DECISIONS.md. Preserve the strongest dissent and why it did or did not change the outcome. Record when the result should be revisited. A request for reconsideration must identify new evidence, a changed condition, or a process error and link the earlier decision.
+Issue and pull-request templates support the process. Voting, qualification review, and tallying are manual. No automatic merge, identity verification, background monitoring, or branch-protection configuration is installed by these documents. Technical write permissions remain separate from voting rights. Consider branch protections and distributed maintainer access through contributor governance when staffing permits.
 
-Governance amendments use this same substantive process and apply prospectively. Changes to owner authority, voter eligibility, binding thresholds, or institutional roles require an explicit owner decision. Review this initial procedure after three completed proposals or the first 30 days of active participation, whichever occurs first; that review is a checkpoint, not an automatically scheduled task.
-
-## GitHub controls and current limits
-
-Issues and pull-request templates in this repository support submissions, review, and integration. A vote is recorded manually in the linked issue. No automatic merge, ballot counting, account validation, invitations, or background processing has been installed.
-
-Branch protection should be considered when maintainers are appointed: require pull requests, review of final changes, resolution of conversations, and renewed approval after substantive edits. Do not impose a reviewer requirement that the current staffing cannot meet. Protection settings and available reviewers must be verified before claiming technical enforcement; this documentation does not enable those settings. Until configured, compliance depends on maintainers following this process.
-
-Implementation references: [GitHub issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) and [protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches). These describe platform capabilities, not adopted economic policy or a completed security configuration.
+Platform references: [GitHub issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) and [protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches). These describe capabilities, not completed configuration.
