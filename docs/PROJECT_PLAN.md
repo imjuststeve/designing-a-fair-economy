@@ -89,27 +89,7 @@ Paid service, proportional additional years, vocational eligibility, waivers, an
 
 The design must address exploitation, displacement of regular workers, suppression of wages, and the risk of dividing people into those who can purchase an unrestricted education and those who must accept burdensome service terms. Useful work is a benefit to evaluate; it is not automatically cash revenue available to fund tuition.
 
-Education-for-service is one possible contribution to the transition. The project's purpose and scope extend to security, ownership, markets, governance, and power whether this particular mechanism is ultimately adopted, revised, or rejected.
-
-## Purpose, proposals, and evidence
-
-Maintain three distinctions throughout the work:
-
-1. **Purpose and guiding values:** the human outcomes and institutional problems the project exists to address.
-2. **Proposed mechanisms:** candidate arrangements whose design and adoption remain open to review.
-3. **Empirical and legal claims:** statements requiring evidence, appropriate scope, and explicit limitations.
-
-Uncertainty about a mechanism should prompt investigation or revision. The documentation should continue to explain the purpose that mechanism is intended to serve.
-
-This plan is a working synthesis of the available discussion, revised with the project owner's authorization to restore the rationale. It is not a verbatim transcript or a claim that the complete originating conversation has been recovered.
-
-## Scope and intended results
-
-Investigate an economic framework that permits meaningful individual freedom and broad opportunity without requiring equal outcomes or concentrating unlimited authority in the state. Explore how existing capitalist and socialist arrangements might evolve through useful, testable reforms. Do not assume that an ideological label determines whether a mechanism serves the goals.
-
-The research cycle should produce a clear charter, definitions, evidence and claim register, compared policy options, reproducible feasibility model, service-compact design, failure scenarios, and explicit recommendations. A future pilot requires a separate decision, credible funding, qualified review, and protection for affected people.
-
-The repository is the living record of this inquiry. Integrate new ideas into the whole framework, identify their status, and revise connected sections together. Documentation completeness means preserving the purpose and known proposals while clearly identifying gaps; it does not mean pretending the missing parts of the original conversation have been recovered.
+Education-for-service is one possible contribution to the transition. The project's purpose and scope extend to security, ownership, markets, governance, …463 tokens truncated…tation completeness means preserving the purpose and known proposals while clearly identifying gaps; it does not mean pretending the missing parts of the original conversation have been recovered.
 
 ## Research workstreams and their purpose
 
@@ -231,7 +211,9 @@ The process is a versioned proposal, substantive review, revision, a contributor
 
 Adopted decisions guide the current project until revised or reversed by a later valid vote. Everything is revisable, including the purpose, principles, mechanisms, voter criteria, and governance itself. Contributors can propose a reasoned change of judgment without needing new empirical evidence. A vote selects the project's position and does not establish empirical truth.
 
-GOVERNANCE.md defines provisional operating mechanics: contributions precede the announced vote opening; review and voting each last seven days; at least three eligible contributors participate and a non-author provides substantive review; support must exceed half of non-abstaining ballots. A tie, missing participation, or no expressed preference leaves the current position in place. These mechanics are implementation defaults open to contributor revision, not separately founder-approved preferences. There is no low-turnout founder override.
+A revision requires at least 60 percent approval of total valid votes cast once there are three or more eligible contributors or voters. Below three, a strict majority wins. Explicit abstentions count in the total; non-voters do not. There is no minimum turnout quorum, and no valid ballots means no decision. Record the eligible contributor count at opening. For three or more contributors or voters, adopt when N > 0 and 5 × SUPPORT >= 3 × N, where N = SUPPORT + OPPOSE + ABSTAIN. Otherwise require N > 0 and 2 × SUPPORT > N. Exactly 60 percent passes; round the required number of supporting ballots up to a whole person. Report turnout even when small. There is no founder override.
+
+This September 26 clarification supersedes the earlier three-voter default and exclusion of abstentions from the denominator. The threshold itself remains revisable. GOVERNANCE.md retains provisional seven-day review and voting windows and a pre-opening contribution cutoff. Independent review is sought but is not an additional policy veto over a valid result.
 
 Retain qualification links, ballot versions, timestamps, interests, exclusions, dissent, final text checks, and the merge commit. Maintainers implement valid results rather than exercising a second policy veto. Objective publication or procedural obstacles must be recorded and resolved openly. New substantive text after a vote needs renewed review. Routine faithful synchronization remains authorized. A general project license and stronger technical enforcement remain unresolved.
 

@@ -19,7 +19,7 @@ if font.exists():
 else:
     raise RuntimeError('Install DejaVu Sans fonts before generating the PDF.')
 styles=getSampleStyleSheet()
-for name,size,leading,after in [('B',9.5,14,6),('S',8.5,12,4),('H1',18,23,14),('H2',13,18,9),('H3',10.5,15,6)]:
+for name,size,leading,after in [('B',9.5,13.5,5),('S',8.5,12,4),('H1',18,23,14),('H2',13,18,9),('H3',10.5,15,6)]:
     styles.add(ParagraphStyle(name=name,fontName='Bold' if name.startswith('H') else 'Body',fontSize=size,leading=leading,spaceAfter=after,spaceBefore=9 if name.startswith('H') else 0,keepWithNext=name.startswith('H')))
 
 def inline(t):

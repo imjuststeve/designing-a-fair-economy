@@ -31,7 +31,9 @@ Mark each area supported, uncertain, concern, or not applicable, with reasons. D
 
 Contributors decide adoption by vote. Every decision, including the goals and governance rules, can be revised by a later valid vote. The founder has one vote on the same terms as other contributors and no unilateral veto.
 
-A traceable contribution qualifies you: proposals, reviews, explained evidence, relevant lived experience, analysis, editing, and accessibility work can count. Your work need not be accepted or agree with the current proposal. Link to a contribution made before the vote opened. A star, reaction, or ballot alone does not establish eligibility. See [the complete rules](GOVERNANCE.md) for the provisional cutoff, minimum participation, counting, and disputes.
+A traceable contribution qualifies you: proposals, reviews, explained evidence, relevant lived experience, analysis, editing, and accessibility work can count. Your work need not be accepted or agree with the current proposal. Link to a contribution made before the vote opened. A star, reaction, or ballot alone does not establish eligibility. See [the complete rules](GOVERNANCE.md) for the provisional contribution cutoff and procedures for counting and disputes.
+
+A revision requires at least 60 percent approval of total valid votes cast once there are three or more eligible contributors or voters. Below three, a strict majority wins. Explicit abstentions count in the total; non-voters do not. There is no minimum turnout quorum, and no valid ballots means no decision.
 
 Adoption and publication are distinct stages. Maintainers must faithfully integrate an adopted change through a linked reviewed pull request; they do not make a second discretionary policy decision. Record the proposal, vote, dissent, final diff check, and published commit. Reactions are not ballots and votes do not establish factual truth.
 

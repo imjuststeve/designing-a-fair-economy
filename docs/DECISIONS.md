@@ -12,6 +12,8 @@ Updated September 26, 2026. This register records the available discussion, not 
 
 - D005 — September 26: Founder explicitly confirmed that contributors vote to determine adoption, all content and governance are revisable, contributors qualify to vote, and there is no unilateral founder veto. This founding clarification supersedes D004's advisory model. It is not a claimed community ballot.
 
+- D006 — September 26: Founder revised the voting threshold to at least 60 percent approval once there are three or more contributors or voters, retaining majority voting below three. This replaces the earlier greater-than-50-percent / five-person formulation before publication. A revision requires at least 60 percent approval of total valid votes cast once there are three or more eligible contributors or voters. Below three, a strict majority wins. Explicit abstentions count in the total; non-voters do not. There is no minimum turnout quorum, and no valid ballots means no decision. The tallying interpretation includes explicit abstentions as votes cast. The rule remains revisable. This is a founding clarification, not a community vote.
+
 ## Guiding direction
 
 The current purpose and interconnected goals are presented in PROJECT_PLAN.md and the README. Their clarification does not establish the effectiveness of candidate policies or settle their funding and legal terms.
@@ -30,7 +32,7 @@ The current purpose and interconnected goals are presented in PROJECT_PLAN.md an
 - P007 — Specific ownership funds, taxes, borrowing arrangements, benefit design, and governance mechanisms.
 - P008 — Use a United States civilian case study as a manageable initial modeling context; this is not an adopted geographic restriction.
 
-- P009 — Contributor decision authority and universal revisability are now established by D005. The v0.2 mechanics for contribution cutoff, seven-day windows, three-participant minimum, independent review, and majority counting are provisional implementation rules open to contributor revision. Technical enforcement, licensing, and distributed maintainer access remain unresolved.
+- P009 — Contributor authority and universal revisability are established by D005; the 60-percent threshold from three contributors or voters, majority below three, and no minimum turnout are recorded in D006. Contribution cutoff and seven-day review and voting windows remain provisional mechanics open to contributor revision. Independent review is encouraged and does not override a valid result. Technical enforcement, licensing, and distributed maintainer access remain unresolved.
 
 ## Priority open questions
 

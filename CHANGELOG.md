@@ -1,5 +1,11 @@
 # Revision history
 
+## September 26, 2026 — Revised approval threshold
+
+- Recorded the latest founding clarification: at least 60 percent approval once there are three or more contributors or voters; strict majority below three, with no minimum turnout quorum. This replaces the earlier threshold discussion before publication.
+- Kept total valid votes cast as the denominator, including explicit abstentions and excluding non-voters. Superseded the provisional turnout minimum and non-abstaining denominator.
+- Updated exact arithmetic, whole-person examples, contributor-count recording, documentation, and generated plan editions. All rules remain revisable.
+
 ## September 26, 2026 — Contributor decisions and universal revisability
 
 - Recorded the founder's explicit clarification: contributor votes determine adoption; everything remains revisable; contributors qualify to vote; there is no unilateral founder veto.

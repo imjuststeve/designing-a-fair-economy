@@ -1,6 +1,6 @@
 # Contribution governance
 
-Working process v0.2 — September 26, 2026.
+Working process v0.3 — September 26, 2026.
 
 ## Authority and revisability
 
@@ -46,15 +46,33 @@ All substantive changes, including founder proposals and changes to the current 
 7. Integrate accepted text through a linked pull request. Check the final diff against the voted version, update affected documentation and references, regenerate editions, and record the merge commit. Material changes require another review and vote; faithful editorial integration does not.
 8. Reconsider whenever a contributor proposes a revision. Earlier decisions remain traceable in history; none is immune to replacement.
 
-## Provisional operating rules for results
+## Rule for adopting a revision or change
 
-The voting authority and universal revisability above are founder-confirmed. The following mechanics are initial implementation defaults, subject to contributor revision rather than claims of separately approved founder preferences:
+With three or more eligible contributors or voters, a revision requires at least 60 percent approval of total valid votes cast. Below three contributors and voters, a strict majority wins. Exactly 60 percent passes under the 60-percent rule. There is no minimum turnout quorum.
 
-- Require at least three eligible contributors to cast valid ballots and at least one substantive review by someone other than the author. Authors count toward participation; no special voting weight applies.
-- Abstentions count toward participation but not the approval denominator. Adopt if SUPPORT is strictly more than half of SUPPORT plus OPPOSE and the participation and review requirements are met.
-- If OPPOSE has a strict majority under those same conditions, the proposal is not adopted. A tie, no non-abstaining ballots, or unmet participation or review requirements means no decision; existing wording remains current.
-- Publish the turnout and limits. With fewer than three participating contributors, a substantive proposal waits for participation or an already validly adopted change to these rules. There is no founder override or low-turnout escape that substitutes a personal decision for a vote.
-- A failed or inconclusive proposal can be revised and resubmitted. Record the relationship to earlier versions.
+Record C, the number of eligible contributors at vote opening, and N = SUPPORT + OPPOSE + ABSTAIN, using each eligible contributor's last valid ballot in the announced window. When C >= 3 or N >= 3, adopt if N > 0 and 5 × SUPPORT >= 3 × N; minimum support is ceiling(3 × N / 5). Otherwise adopt if N > 0 and 2 × SUPPORT > N. The contributor count selects the applicable threshold; the denominator remains actual valid votes cast, not the entire eligible electorate. Publish C and the threshold in the voting notice.
+
+An explicit ABSTAIN counts in the denominator. Not voting does not count. Invalid, late, duplicate, or superseded ballots are excluded under the published ballot rules. Report turnout honestly; low turnout alone does not invalidate an otherwise successful result.
+
+| Valid votes cast | Support needed to adopt |
+| --- | --- |
+| 0 | No decision |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 2 |
+| 4 | 3 |
+| 5 | 3 |
+| 6 | 4 |
+| 7 | 5 |
+| 8 | 5 |
+| 9 | 6 |
+| 10 | 6 |
+
+For one or two ballots, the required whole-number support is the same under either threshold. Three SUPPORT out of five valid ballots is exactly 60 percent and passes. Four SUPPORT out of seven is below 60 percent and fails. Two SUPPORT and two OPPOSE is a tie and fails. Two SUPPORT, zero OPPOSE, and three ABSTAIN is 2/5 support and fails; abstention is not recorded as opposition.
+
+A proposal below its applicable threshold is not adopted. With no valid ballots, record no decision. The current position remains unchanged unless the proposal passes; a revision can be proposed and voted on again. There is no founder override.
+
+This September 26 founding clarification replaces the earlier proposed greater-than-50-percent threshold with at least 60 percent once there are three or more contributors or voters, retaining majority voting below three. It supersedes the earlier provisional turnout minimum and denominator that excluded abstentions. The rule itself remains revisable by a later valid vote. Seven-day review and voting windows and the contribution cutoff remain provisional mechanics. Seek independent substantive review, but absence of a particular reviewer does not create an extra policy veto over a valid result.
 
 The first contributor governance review should assess these defaults after three completed proposals or 30 days of active participation, whichever occurs first. This is a review checkpoint, not a scheduled automation. Contributors may propose changes sooner.
 
