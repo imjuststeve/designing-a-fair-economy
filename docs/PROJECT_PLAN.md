@@ -89,7 +89,27 @@ Paid service, proportional additional years, vocational eligibility, waivers, an
 
 The design must address exploitation, displacement of regular workers, suppression of wages, and the risk of dividing people into those who can purchase an unrestricted education and those who must accept burdensome service terms. Useful work is a benefit to evaluate; it is not automatically cash revenue available to fund tuition.
 
-Education-for-service is one possible contribution to the transition. The project's purpose and scope extend to security, ownership, markets, governance, …463 tokens truncated…tation completeness means preserving the purpose and known proposals while clearly identifying gaps; it does not mean pretending the missing parts of the original conversation have been recovered.
+Education-for-service is one possible contribution to the transition. The project's purpose and scope extend to security, ownership, markets, governance, and power whether this particular mechanism is ultimately adopted, revised, or rejected.
+
+## Purpose, proposals, and evidence
+
+Maintain three distinctions throughout the work:
+
+1. **Purpose and guiding values:** the human outcomes and institutional problems the project exists to address.
+2. **Proposed mechanisms:** candidate arrangements whose design and adoption remain open to review.
+3. **Empirical and legal claims:** statements requiring evidence, appropriate scope, and explicit limitations.
+
+Uncertainty about a mechanism should prompt investigation or revision. The documentation should continue to explain the purpose that mechanism is intended to serve.
+
+This plan is a working synthesis of the available discussion, revised with the project owner's authorization to restore the rationale. It is not a verbatim transcript or a claim that the complete originating conversation has been recovered.
+
+## Scope and intended results
+
+Investigate an economic framework that permits meaningful individual freedom and broad opportunity without requiring equal outcomes or concentrating unlimited authority in the state. Explore how existing capitalist and socialist arrangements might evolve through useful, testable reforms. Do not assume that an ideological label determines whether a mechanism serves the goals.
+
+The research cycle should produce a clear charter, definitions, evidence and claim register, compared policy options, reproducible feasibility model, service-compact design, failure scenarios, and explicit recommendations. A future pilot requires a separate decision, credible funding, qualified review, and protection for affected people.
+
+The repository is the living record of this inquiry. Integrate new ideas into the whole framework, identify their status, and revise connected sections together. Documentation completeness means preserving the purpose and known proposals while clearly identifying gaps; it does not mean pretending the missing parts of the original conversation have been recovered.
 
 ## Research workstreams and their purpose
 
