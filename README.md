@@ -101,16 +101,20 @@ Uncertainty about a mechanism should prompt investigation or revision. The docum
 
 This README is a working synthesis of the available discussion, revised with the project owner's authorization to restore the rationale. It is not a verbatim transcript or a claim that the complete originating conversation has been recovered.
 
-## Project documents
+## Living project and documents
 
-- [Original project plan (PDF)](docs/Economic_Transition_Project_Plan.pdf): the September 24 research plan, retained as a historical baseline for workstreams, feasibility analysis, and review procedures.
-- [Searchable plan transcription](docs/PROJECT_PLAN.txt): extracted text of that same plan; consult the PDF for tables and layout.
+This repository is the living project record. New ideas are integrated as the discussion develops, with their status, rationale, and effects on the complete framework. At a meaningful checkpoint, ask if inclusion or adoption is unclear. Routine documentation updates are authorized. This practice operates during project work sessions with repository access; it is not background monitoring of every conversation.
+
+- [Complete current project plan](docs/PROJECT_PLAN.md): editable source for the full concept, goals, proposed mechanisms, research work, and review process.
+- [Current plan PDF](docs/Economic_Transition_Project_Plan.pdf) and [text edition](docs/PROJECT_PLAN.txt): generated from the complete plan and reference register.
 - [Reference register](REFERENCES.md): all 20 links captured from the visible source discussion, with recorded limitations and evidence gaps.
-- [Revision history](CHANGELOG.md): substantive changes and their purpose.
+- [Decisions and open questions](docs/DECISIONS.md): adopted documentation directions, proposals, and unresolved choices.
+- [Project maintenance instructions](AGENTS.md): the standing workflow for future contributors and assistants.
+- [Revision history](CHANGELOG.md): substantive changes and their purpose. Superseded documents remain in Git history.
 
-This README supersedes the abbreviated purpose framing of the original plan. The PDF and its transcription have not been revised to include this expanded rationale. Their research tasks remain useful, but they should be read alongside the current purpose statement. The earlier executive overview and complete conversation are not included in the repository.
+The current plan replaces the earlier abbreviated plan. The README preserves the central rationale and links to the full research details. Generated editions must be refreshed when the plan or references change. The complete originating conversation is not available; missing context must not be invented.
 
-The references support examination of particular questions. They do not validate the combined framework, and the retrieval limitations recorded in the register remain unresolved.
+The references support examination of particular questions. They do not validate the combined framework, and their recorded verification limitations remain unresolved.
 
 ## Roadmap
 
@@ -134,7 +138,7 @@ Evaluate fiscal costs, real resource requirements, and distributional effects se
 
 ## Next work
 
-1. Carry this expanded rationale into the next charter and project-plan revision, connecting each workstream to its intended human outcome.
+1. Develop glossary and charter decisions from the complete current plan, connecting each workstream to its intended human outcome.
 2. Review R01–R20, correct R05 claim support, recover blocked references, and identify uncited assertions.
 3. Develop comparable options across security, ownership, and governance alongside the education-for-service inquiry.
 4. Compare service-compact designs with ordinary hiring and scholarship-only options, then build an initial cohort cost model and household scenarios.

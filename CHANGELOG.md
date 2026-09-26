@@ -1,5 +1,12 @@
 # Revision history
 
+## September 26, 2026 — Establish the complete living project
+
+- Replaced the abbreviated plan with a complete current Markdown plan incorporating the purpose, rationale, goals, candidate mechanisms, research tasks, feasibility measures, failure scenarios, and checkpoints.
+- Regenerated the PDF and text edition from the current plan and reference register. The 20 reference links and their limitations are preserved. Earlier editions remain in Git history.
+- Added a decision record and standing repository instructions reflecting the owner's authorization to maintain the project as ideas are discussed and to ask at checkpoints when interpretation or adoption is unclear.
+- Added a reproducible document builder and aligned the README and reference register with the current plan.
+
 ## September 26, 2026 — Restore the underlying purpose
 
 Revised the README following the project owner's review that the documentation had diminished the reasons behind the framework.
