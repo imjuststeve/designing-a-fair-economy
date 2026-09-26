@@ -1,5 +1,13 @@
 # Revision history
 
+## September 26, 2026 — Sole-contributor approval and service-compact definition gaps
+
+- Adopted and published, by recorded sole-contributor approval, regional median compensation, temporary-employment priority, interim public-placement proposals, and the like-for-like service direction.
+- Marked unresolved terms Requires definition, including service equivalence, interim credit, contribution evidence, suitability, six-month treatment, niche-field eligibility, and remedies for government failure.
+- Recorded automatic six-month release and full discharge through unrelated interim work as superseded discussion suggestions. Distinguished founder support, assistant alternatives, and contributor adoption; no multi-person ballot or implementation approval is claimed.
+- Recorded 1 support, 0 oppose (100 percent) and the explicitly directed sole-contributor procedure in governance v1.1; normal procedures apply once another person qualifies.
+- Preserved the full economic framework, the remaining governance rules, and R01-R21; updated the README, decision register, full plan v0.4, document builder version, and generated PDF/text editions. AI-assisted drafting from the authorized discussion.
+
 ## September 26, 2026 — Adopt tiered contribution governance
 
 - Adopted impact-based contribution paths: open discussion, reviewed editorial work, 60 percent substantive approval, and two-thirds for governance or purpose. All rules remain revisable.
@@ -51,3 +59,4 @@ The reference register and its 20 links were retained without changing their rec
 ## Initial baseline
 
 The initial documentation is based on the working project plan dated September 24, 2026. The original publication included a README summary, the plan PDF and text transcription, and a reference register.
+

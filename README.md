@@ -83,7 +83,13 @@ The project owner's proposal is that accepting educational support creates at le
 
 The proposed connection to the wider framework is that educational access could develop individual opportunity while service contributes to healthcare, infrastructure, education, technology, research, or other demonstrated public needs. Whether it adds useful capacity at a justifiable cost must be evaluated against alternatives.
 
-Paid service, proportional additional years, vocational eligibility, waivers, and specific governance mechanisms remain proposals requiring explicit decisions. Actual capability, accommodations, changing circumstances, government failure to place participants, and practical exit options require examination. Participation in education does not by itself establish sustained employment capacity.
+The September 26 discussion establishes the adopted working baseline of regional median pay for comparable work, adjusted for experience, qualifications, duties, and hours; comparable employee pay schedules and benefits; and documented adjustments for hard-to-fill roles. Education support does not justify a wage discount. This replaces the suggested formula of 60 percent of the highest regional income, which was not selected. Benchmark sources, regional boundaries, update frequency, and reconciliation with existing pay schedules require definition.
+
+Temporary outside employment does not discharge the service obligation. The founder clarified that a suitable qualifying service offer within the placement window must take priority. Interim work in a government agency or managed system is a proposed placement route, but like-for-like service in return for the education benefit remains the intended exchange. The earlier suggestion of automatic release after six months, and the suggestion that any unrelated interim work could fully discharge the obligation, are superseded in this discussion. The meaning of like-for-like, interim credit, the waiting limit, and remedies for government failure require definition.
+
+The specified compensation and service direction is adopted as the current working design by the sole eligible contributor's recorded approval (1 support, 0 oppose; 100 percent), under the sole-contributor procedure in GOVERNANCE.md v1.1. Assistant alternatives and questions marked Requires definition remain open. This is not a completed multi-person ballot or enforceable program agreement. See the [detailed design questions](docs/PROJECT_PLAN.md#education-for-service-design-questions) and [decision register](docs/DECISIONS.md) for unresolved choices.
+
+Proportional additional years, vocational eligibility, waivers, and enforcement remain unresolved. Actual capability, accommodations, changing circumstances, and practical exit options require examination. Participation in education does not by itself establish sustained employment capacity.
 
 The design must address exploitation, displacement of regular workers, suppression of wages, and the risk of dividing people into those who can purchase an unrestricted education and those who must accept burdensome service terms. Useful work is a benefit to evaluate; it is not automatically cash revenue available to fund tuition.
 
@@ -154,3 +160,8 @@ Ideas and evidence can enter discussion without becoming adopted positions; fait
 The [decision record](docs/DECISIONS.md) links adopted positions to their reasons. Templates support proposal submission, review, voting notices, decision records, and final edits. Branch protection and vote automation are not configured by these documents; maintainers must follow the published process.
 
 No general project license has been selected. Substantial contributed text requires recorded publication permission or applicable license terms before merge; see the contribution guide.
+
+
+## Sole-contributor operation
+
+When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.

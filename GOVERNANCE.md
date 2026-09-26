@@ -1,6 +1,6 @@
 # Contribution governance
 
-Adopted policy v1.0 — September 26, 2026.
+Adopted policy v1.1 — September 26, 2026.
 
 ## Authority and revisability
 
@@ -9,6 +9,12 @@ Contributors determine adoption by vote. An adopted decision directs the current
 Steve Smith confirmed this direction on September 26, 2026, including that contributors qualify to vote and the founder has no unilateral veto. The founder participates on the same voting terms as other contributors. Repository ownership and merge permissions are administrative capabilities; they do not grant additional policy authority.
 
 This supersedes the initial advisory-vote and owner-approval model. It does not turn earlier proposals into adopted policies or turn previous discussion into a recorded community vote. The founding clarification is recorded as such in docs/DECISIONS.md.
+
+## Sole-contributor procedure
+
+When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+
+Adopted September 26, 2026 by Steve Smith's explicit instruction to count his sole-contributor approval as 100 percent and publish. This is a recorded sole-contributor decision, not a claim that the earlier multi-day procedure was completed. See D009-D010 in docs/DECISIONS.md.
 
 ## Who qualifies to vote
 
@@ -117,3 +123,4 @@ Use docs/templates/DECISION_RECORD.md and add adopted decisions to docs/DECISION
 Issue and pull-request templates support the process. Voting, qualification review, and tallying are manual. No automatic merge, identity verification, background monitoring, or branch-protection configuration is installed by these documents. Technical write permissions remain separate from voting rights. Consider branch protections and distributed maintainer access through contributor governance when staffing permits.
 
 Platform references: [GitHub issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) and [protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches). These describe capabilities, not completed configuration.
+

@@ -50,3 +50,8 @@ No general project license has been selected. Reviews can begin now. Before merg
 Critique claims and proposals rather than attacking people. Disagreement and minority views are welcome. Harassment, threats, impersonation, spam, and deliberate ballot manipulation may be moderated. Disclose relevant financial, organizational, or authorship interests without posting private personal information.
 
 Maintainers should explain status changes and exclusions publicly, except where doing so would expose private information or repeat abusive material. Request reconsideration by linking the decision and explaining the revision, whether based on new evidence, a process concern, or a reasoned change of judgment. Response times are targets, not guarantees; no response means pending, not accepted.
+
+
+## Sole-contributor operation
+
+When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
