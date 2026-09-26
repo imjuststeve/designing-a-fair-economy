@@ -145,6 +145,10 @@ Evaluate fiscal costs, real resource requirements, and distributional effects se
 
 ## Review and contributions
 
-Evidence, counterexamples, cost critiques, accessibility concerns, and failure scenarios are welcome as proposed changes. Cite sources and distinguish evidence from inference. Submissions do not become adopted project positions without the project owner's decision.
+Reviewers can begin with the [contribution guide](CONTRIBUTING.md) and [governance process](GOVERNANCE.md). Submit a [review](https://github.com/imjuststeve/designing-a-fair-economy/issues/new?template=review.md) or [proposal](https://github.com/imjuststeve/designing-a-fair-economy/issues/new?template=proposal.md). No coding or formal credential is required.
 
-No license has been selected for this publication.
+The initial process is proposal, evidence review, revision, public advisory vote, documented owner decision, and integration through a reviewed pull request. Votes do not establish factual truth or automatically merge changes. The complete purpose remains the basis for evaluation. Timing and participation targets are provisional; binding community authority remains an open governance decision.
+
+The [decision record](docs/DECISIONS.md) links adopted positions to their reasons. Templates support proposal submission, review, voting notices, decision records, and final edits. Branch protection and vote automation are not configured by these documents; maintainers must follow the published process.
+
+No general project license has been selected. Substantial contributed text requires recorded publication permission or applicable license terms before merge; see the contribution guide.

@@ -8,6 +8,8 @@ Updated September 26, 2026. This register records the available discussion, not 
 - D002 — September 26: Treat this repository as the living project. Integrate new ideas as project discussions develop, refresh affected documentation, and preserve the complete concept in future updates.
 - D003 — September 26: Ask at a meaningful checkpoint when inclusion, interpretation, or adoption is unclear. Routine documentation updates do not require repeated approval.
 
+- D004 — September 26: Owner requested third-party review and development of evaluation, voting, and integration procedures. The initial process preserves existing owner authority. Provisional seven-day windows, participation targets, and ballot mechanics are assistant-designed trial defaults, not explicit owner adoption of permanent governance.
+
 ## Guiding direction
 
 The current purpose and interconnected goals are presented in PROJECT_PLAN.md and the README. Their clarification does not establish the effectiveness of candidate policies or settle their funding and legal terms.
@@ -25,6 +27,8 @@ The current purpose and interconnected goals are presented in PROJECT_PLAN.md an
 - P006 — Accommodation, postponement, transfer, hardship relief, withdrawal terms, and discharge for genuine inability.
 - P007 — Specific ownership funds, taxes, borrowing arrangements, benefit design, and governance mechanisms.
 - P008 — Use a United States civilian case study as a manageable initial modeling context; this is not an adopted geographic restriction.
+
+- P009 — Contributor governance: trial advisory voting and reviewed integration are documented in GOVERNANCE.md. Binding community authority, eligibility for binding votes, licensing, independent moderation, and eventual delegated stewardship remain open.
 
 ## Priority open questions
 

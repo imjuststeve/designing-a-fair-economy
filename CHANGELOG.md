@@ -1,5 +1,12 @@
 # Revision history
 
+## September 26, 2026 — Open contribution and governance process
+
+- Added contributor guidance, proposal and review issue templates, a pull-request template, and voting and decision templates.
+- Defined an initial advisory ballot and documented owner-decision process, with explicit trial defaults, evidence review, minority views, conflict disclosure, reconsideration, and integration checks.
+- Preserved existing owner authority; binding voting rights and a general license remain open. No automatic tallying, merging, or branch protection is claimed.
+- Integrated contributor review into the complete plan, README, decision record, and future maintenance instructions; regenerated current editions.
+
 ## September 26, 2026 — Establish the complete living project
 
 - Replaced the abbreviated plan with a complete current Markdown plan incorporating the purpose, rationale, goals, candidate mechanisms, research tasks, feasibility measures, failure scenarios, and checkpoints.

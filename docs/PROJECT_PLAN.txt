@@ -225,6 +225,16 @@ Maintain a decision log, claim register, and risk register. Decisions should inc
 
 At meaningful discussion checkpoints, integrate substantive developments into the repository. Ask a focused question if inclusion, interpretation, or adoption is unclear. Do not silently promote tentative suggestions into agreed policy. Preserve earlier versions in Git history and keep current documents aligned. This process operates during accessible work sessions, not as background monitoring of every conversation.
 
+Contributor review and integration
+
+Open the inquiry to outside reviewers through CONTRIBUTING.md and GOVERNANCE.md. Contributors can challenge claims, offer evidence or lived experience with clear scope, and propose changes without coding or formal credentials. Review must assess the complete purpose, evidence, feasibility, distribution, freedom and power, and alternatives.
+
+The initial process is a versioned proposal, substantive review, revision, an advisory ballot on a frozen text, a documented owner decision, and integration through a reviewed pull request. Seven-day review and voting windows and a target of three non-author ballots plus an independent review are provisional trial defaults. Record low turnout and disputed ballots honestly. Votes do not establish empirical truth or automatically approve a merge. Existing owner authority remains until explicitly changed.
+
+Retain reasons, dissent, exclusions, interests, proposal versions, final approval, and the merge commit in the decision record. Update all affected parts of the living project and regenerate its editions. New substantive text after a vote needs renewed review. Plain editorial maintenance may use a shorter review path. Contributors must have permission to publish submitted material; a general project license remains unresolved.
+
+This initial governance design is itself open to review. Binding voter authority, eligibility, delegation, and stronger technical enforcement require explicit decisions. No ballot automation or branch protection has been installed by the documentation update. The first review checkpoint is after three completed proposals or 30 days of active participation, whichever occurs first.
+
 Immediate research sequence
 
 1. Use this complete purpose as the basis for glossary and charter decisions; identify any remaining gaps in the available originating discussion.

@@ -16,7 +16,7 @@ Distinguish guiding values, working proposals, adopted decisions, empirical evid
 
 ## Update workflow
 
-1. Read the current README, docs/PROJECT_PLAN.md, docs/DECISIONS.md, REFERENCES.md, and CHANGELOG.md. Fetch the current branch before editing; inspect any additional relevant files.
+1. Read the current README, docs/PROJECT_PLAN.md, docs/DECISIONS.md, REFERENCES.md, CHANGELOG.md, CONTRIBUTING.md, and GOVERNANCE.md. Fetch the current branch before editing; inspect any additional relevant files.
 2. Integrate substantive new ideas into the relevant part of the complete proposal, with their status and rationale. Update the decision record and dependencies. Avoid leaving important ideas only in chat or in a disconnected addendum.
 3. Update README and all affected documents together. Preserve existing reference IDs and URLs; add new sources with scope and verification limits. Do not silently delete conflicting evidence.
 4. Run scripts/build_documents.py to regenerate the PDF and text edition whenever the plan or reference register changes. The Markdown plan is the editable source; generated copies must agree with it.
@@ -28,3 +28,7 @@ Use Git history to preserve superseded editions. Current filenames should presen
 ## Operating boundary
 
 The update practice operates during project work sessions with repository access. It is not background monitoring of every conversation. If access is unavailable, keep prepared changes and state that they have not been published. Ask at a checkpoint when uncertainty materially changes the project, rather than requiring confirmation for each routine edit.
+
+## Third-party contributions
+
+Use the published governance process for external proposals and substantive changes. Routine synchronization remains authorized. Preserve advisory ballot records, evidence, minority views, contributor permissions, and the final owner decision. Do not turn vote counts into factual proof or silently adopt binding voting authority. Integrate accepted changes through a linked reviewed pull request; keep the full project and generated editions aligned.
