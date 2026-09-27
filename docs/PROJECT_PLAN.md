@@ -1,6 +1,6 @@
 # Designing a Fair Economy Project Plan
 
-Living research framework v0.4 | September 26, 2026
+Research framework v0.5 | September 27, 2026
 
 Project founder: Steve Smith · Project positions decided by contributor vote
 
@@ -65,7 +65,7 @@ This approach is intended to permit substantial structural change over time. Its
 
 ### Who pays and who does the work
 
-The discussion explicitly confronted the cost of building new arrangements. Public funding does not itself create trained workers, housing, energy, materials, or administrative capacity. Each proposal must identify the resources required and what other uses of those resources would be forgone.
+Public funding does not itself create trained workers, housing, energy, materials, or administrative capacity. Each proposal must identify the resources required and what other uses of those resources would be forgone.
 
 People already struggling to afford necessities have little margin with which to finance an uncertain future benefit. Their experience of a successful transition should be greater security before significant new transition burdens are imposed. Protecting basic security does not require preserving every existing economic advantage.
 
@@ -79,17 +79,17 @@ A system intended to limit concentrated power must examine whether its own creat
 
 ## Education for service as one candidate mechanism
 
-Education-for-service arose from two linked questions: how people could gain access to education, and where some of the skilled labor needed to expand public capacity could come from. Its possible role is reciprocal investment: society helps develop a person's capabilities, and that person contributes a defined period of useful service.
+Education-for-service is a proposed reciprocal investment mechanism linking educational access with the skilled labor required for public capacity: society supports education in exchange for a defined period of useful service.
 
-The project owner's proposal is that accepting educational support creates at least a one-year service obligation regardless of graduation, with capability-based service matching for participants with disabilities. The compact is being explored as an optional route to education. These are design inputs; detailed contractual provisions remain unresolved.
+The proposed compact provides that accepting educational support creates at least a one-year service obligation regardless of graduation, with capability-based service matching for participants with disabilities. The compact is being explored as an optional route to education. These are design inputs; detailed contractual provisions remain unresolved.
 
 The proposed connection to the wider framework is that educational access could develop individual opportunity while service contributes to healthcare, infrastructure, education, technology, research, or other demonstrated public needs. Whether it adds useful capacity at a justifiable cost must be evaluated against alternatives.
 
-The September 26 discussion establishes the adopted working baseline of regional median pay for comparable work, adjusted for experience, qualifications, duties, and hours; comparable employee pay schedules and benefits; and documented adjustments for hard-to-fill roles. Education support does not justify a wage discount. This replaces the suggested formula of 60 percent of the highest regional income, which was not selected. Benchmark sources, regional boundaries, update frequency, and reconciliation with existing pay schedules require definition.
+The current working baseline is regional median pay for comparable work, adjusted for experience, qualifications, duties, and hours; comparable employee pay schedules and benefits; and documented adjustments for hard-to-fill roles. Education support does not justify a wage discount. Requires definition: benchmark sources, regional boundaries, update frequency, and reconciliation with existing pay schedules.
 
-Temporary outside employment does not discharge the service obligation. The founder clarified that a suitable qualifying service offer within the placement window must take priority. Interim work in a government agency or managed system is a proposed placement route, but like-for-like service in return for the education benefit remains the intended exchange. The earlier suggestion of automatic release after six months, and the suggestion that any unrelated interim work could fully discharge the obligation, are superseded in this discussion. The meaning of like-for-like, interim credit, the waiting limit, and remedies for government failure require definition.
+Temporary outside employment does not discharge the service obligation. A suitable qualifying service offer within the six-month placement window must take priority. Interim work in a government agency or managed system is a candidate placement route. Like-for-like service in return for the education benefit remains the intended exchange. Automatic discharge after six months and full discharge through unrelated interim work are not provisions of the current design. Requires definition: service equivalence, interim credit, the final function of the six-month milestone, maximum waiting time, and remedies for government failure.
 
-The specified compensation and service direction is adopted as the current working design by the sole eligible contributor's recorded approval (1 support, 0 oppose; 100 percent), under the sole-contributor procedure in GOVERNANCE.md v1.1. Assistant alternatives and questions marked Requires definition remain open. This is not a completed multi-person ballot or enforceable program agreement. See the detailed design questions and docs/DECISIONS.md for unresolved choices.
+This is a working policy design, not an operational program or completed participant agreement. All matters marked Requires definition remain unresolved. The complete plan and current requirements register identify the outstanding design choices.
 
 Proportional additional years, vocational eligibility, waivers, and enforcement remain unresolved. Actual capability, accommodations, changing circumstances, and practical exit options require examination. Participation in education does not by itself establish sustained employment capacity.
 
@@ -107,7 +107,7 @@ Maintain three distinctions throughout the work:
 
 Uncertainty about a mechanism should prompt investigation or revision. The documentation should continue to explain the purpose that mechanism is intended to serve.
 
-This plan is a working synthesis of the available discussion, revised with the project owner's authorization to restore the rationale. It is not a verbatim transcript or a claim that the complete originating conversation has been recovered.
+The framework states normative objectives and proposed mechanisms. Potential effects are research hypotheses unless supported by an identified source. The effectiveness of the combined framework requires empirical evaluation.
 
 ## Scope and intended results
 
@@ -115,13 +115,13 @@ Investigate an economic framework that permits meaningful individual freedom and
 
 The research cycle should produce a clear charter, definitions, evidence and claim register, compared policy options, reproducible feasibility model, service-compact design, failure scenarios, and explicit recommendations. A future pilot requires a separate decision, credible funding, qualified review, and protection for affected people.
 
-The repository is the living record of this inquiry. Integrate new ideas into the whole framework, identify their status, and revise connected sections together. Documentation completeness means preserving the purpose and known proposals while clearly identifying gaps; it does not mean pretending the missing parts of the original conversation have been recovered.
+The repository contains the current research framework. Connected sections and generated editions must remain consistent; incomplete definitions and evidence gaps must remain explicit.
 
 ## Research workstreams and their purpose
 
 ### Economic security and household resilience
 
-Determine which necessities and economic margins support meaningful choice. Compare cash, services, and combined provision; define eligibility and regional variation. Examine benefit cliffs, take-up, exclusion, administrative burden, and conditions that give providers excessive control. Produce a floor options paper and household scenarios. Begin with R06, R08, and R11, then obtain evidence appropriate to the chosen jurisdiction.
+Determine which necessities and economic margins support meaningful choice. Compare cash, services, and combined provision; define eligibility and regional variation. Examine benefit cliffs, take-up, exclusion, administrative burden, and conditions that give providers excessive control. Produce a floor options paper and household scenarios. Begin with [R06], [R08], and [R11], then obtain evidence appropriate to the chosen jurisdiction.
 
 ### Ownership and competitive markets
 
@@ -129,45 +129,45 @@ Compare employee ownership, diversified citizen investment structures, cooperati
 
 ### Governance and resistance to capture
 
-Map who appoints, funds, audits, disciplines, and removes each institution. Test informal influence, revolving doors, procurement favors, collusion among oversight bodies, and capture of public investment structures. Compare distributed authority with its coordination costs. Produce an authority map and risk register tied to the ability of affected people to challenge decisions. Begin with R01-R03 and R19.
+Map who appoints, funds, audits, disciplines, and removes each institution. Test informal influence, revolving doors, procurement favors, collusion among oversight bodies, and capture of public investment structures. Compare distributed authority with its coordination costs. Produce an authority map and risk register tied to the ability of affected people to challenge decisions. Begin with [R01]-[R03] and [R19].
 
 ### Financing and real capacity
 
-Identify initial and recurring costs, the ultimate incidence of funding mechanisms, training bottlenecks, infrastructure needs, and capacity that can be reused. Compare spending reallocation, taxation, limited borrowing, and eventual investment returns. Test the timing of compensation and whether claimed savings actually free usable resources. R04 and R06-R08 provide context whose country and modeling limits must be preserved.
+Identify initial and recurring costs, the ultimate incidence of funding mechanisms, training bottlenecks, infrastructure needs, and capacity that can be reused. Compare spending reallocation, taxation, limited borrowing, and eventual investment returns. Test the timing of compensation and whether claimed savings actually free usable resources. [R04] and [R06]-[R08] provide context whose country and modeling limits must be preserved.
 
 ### Education and public service
 
-Develop the compact as a possible link between individual opportunity and the capacity required for public improvement. Compare it with ordinary hiring, scholarships without service, apprenticeships, and retention incentives. Evaluate useful additional output, participant agency, accessibility, job displacement, and retention. Begin with R12-R18 and R20; military arrangements provide context and do not automatically establish suitable civilian enforcement.
+Develop the compact as a possible link between individual opportunity and the capacity required for public improvement. Compare it with ordinary hiring, scholarships without service, apprenticeships, and retention incentives. Evaluate useful additional output, participant agency, accessibility, job displacement, and retention. Begin with [R12]-[R18] and [R20]; military arrangements provide context and do not automatically establish suitable civilian enforcement.
 
 ### Transition and public legitimacy
 
-Compare sequences that keep essential systems working and improve vulnerable people's position early. Examine public participation, compensation, reversibility, and the risk of indefinite delay. Document how input changes proposals. Produce an implementation sequence and evaluation plan that disclose who pays, who benefits, and who could lose. Begin with R01, R03-R05, and R09-R11, retaining the unresolved R05 citation limitation.
+Compare sequences that keep essential systems working and improve vulnerable people's position early. Examine public participation, compensation, reversibility, and the risk of indefinite delay. Document how input changes proposals. Produce an implementation sequence and evaluation plan that disclose who pays, who benefits, and who could lose. Begin with [R01], [R03]-[R05], and [R09]-[R11], retaining the unresolved [R05] citation limitation.
 
 ## Education for service design questions
 
-Status: current working design approved by the sole contributor, September 26, 2026 (D010). Unresolved questions and assistant alternatives are not adopted answers. Every item below marked Requires definition remains open; this publication does not fill those gaps by implication.
+Status: current working design. Requirements marked Requires definition remain open. Candidate alternatives are options for evaluation, not adopted contractual terms.
 
 ### Compensation and reciprocal service
 
-The founder accepted regional median compensation for comparable work as the working baseline, with experience, qualifications, duties, hours, ordinary employee pay schedules and benefits, and documented hard-to-fill adjustments taken into account. Participants should not receive discounted wages because their education was funded. Requires definition: wage-data source, geography, comparable-role classification, benefits comparison, updates, and how to reconcile a regional benchmark with an existing employer pay schedule.
+The working design specifies regional median compensation for comparable work as the working baseline, with experience, qualifications, duties, hours, ordinary employee pay schedules and benefits, and documented hard-to-fill adjustments taken into account. Participants should not receive discounted wages because their education was funded. Requires definition: wage-data source, geography, comparable-role classification, benefits comparison, updates, and how to reconcile a regional benchmark with an existing employer pay schedule.
 
-The founder requires like-for-like service in return for the educational benefit. Related skilled work is a candidate interpretation; no exact field-matching test, monetary equivalence, or additional service-to-education ratio has been settled. Preserve the earlier minimum-one-year proposal regardless of graduation, while explicitly resolving its interaction with noncompletion and the inability to qualify for specialist work.
+The compact requires like-for-like service in return for the educational benefit. Related skilled work is a candidate interpretation; no exact field-matching test, monetary equivalence, or additional service-to-education ratio has been settled. The proposed minimum is one year regardless of graduation. Requires definition: its interaction with noncompletion and the inability to qualify for specialist work.
 
-### Placement and the six-month discussion
+### Placement and the six-month milestone
 
-Outside employment may begin while a participant awaits placement. Under the founder's proposal it does not extinguish the obligation: a suitable qualifying service position offered before the proposed six-month deadline must be accepted. Requires definition: suitability, written-offer requirements, start-date limits, transition notice, location, relocation support, and treatment of offers after six months.
+Outside employment may begin while a participant awaits placement. Under the proposed compact it does not extinguish the obligation: a suitable qualifying service position offered before the proposed six-month deadline must be accepted. Requires definition: suitability, written-offer requirements, start-date limits, transition notice, location, relocation support, and treatment of offers after six months.
 
-The founder initially supported six-month release conditional on genuine employment, with unemployment extending the wait, then challenged automatic release because a niche field could leave the intended education-service exchange unfulfilled. Accordingly, automatic six-month discharge is not the current proposal. Treat six months as a discussed milestone whose final function requires definition; a placement review at six months is an assistant recommendation, not an adopted rule.
+Automatic six-month discharge is not a provision of the current design. Requires definition: the final function of the six-month milestone. A formal placement review at six months is an option for evaluation.
 
-The founder proposed temporary placement in any government agency or managed system. Requires definition: approved employers, useful duties, funding, supervision, safety, accessibility, geography, pay for interim work, and the transfer into specialist service. The earlier assistant suggestion that all unrelated interim work fully satisfies the obligation is superseded by the like-for-like direction. Whether any interim service earns partial credit, and whether or how it changes the waiting period, remain unresolved.
+Temporary placement in a government agency or managed system is a candidate route. Requires definition: approved employers, useful duties, funding, supervision, safety, accessibility, geography, interim pay, transfer into specialist service, partial service credit, and effects on the waiting period. Unrelated interim work does not fully discharge the like-for-like obligation.
 
 ### Contribution, capacity, and government responsibility
 
-The founder proposed actual employment of any kind as evidence of contribution, and an extended waiting period without employment, while questioning whether application counts can demonstrate genuine job-seeking. No final test of good faith has been selected. Requires definition: acceptable evidence, self-employment and part-time work, involuntary job loss, inability to find work, justified refusals, illness, disability, caregiving, clock pauses or extensions, appeals, and privacy limits.
+A proposed contribution criterion is actual employment of any kind within the six-month period, with an extended waiting period without employment. Requires definition: a verifiable good-faith standard, self-employment, part-time work, involuntary job loss, inability to find work, justified refusals, illness, disability, caregiving, clock pauses or extensions, appeals, and privacy limits. The validity of application counts as evidence of genuine job-seeking requires investigation.
 
-Assistant alternatives include documented noncooperation rather than unemployment as the extension trigger, verified opportunities rather than application quotas, and reasonable job-seeking exceptions. These remain alternatives for review, not accepted substitutes for the founder's proposal. Neither government placement capacity nor the ability to verify motivation is assumed to be unlimited.
+Alternatives for evaluation include documented noncooperation as the extension trigger, verified employment opportunities, and reasonable job-seeking exceptions. These are research options rather than adopted requirements. Administrative capacity and the reliability of contribution verification require evidence.
 
-Approving an educational pathway against identified service needs before funding is an assistant recommendation for reducing mismatch, including niche fields. Requires definition: eligible fields, demand evidence, approval authority, changing needs during study, and responsibility when an approved pathway produces no placement. Do not present this as an adopted exclusion of niche study.
+A candidate safeguard is to evaluate educational funding against an identified service pathway. Requires definition: eligible fields, demand evidence, approval authority, changing needs during study, and responsibility when an approved pathway produces no placement. No exclusion of niche study is adopted.
 
 There is an unresolved tension between preserving like-for-like service and avoiding an indefinite obligation when government fails. Requires definition: maximum waiting and interim periods, who bears mismatch risk, related placements, voluntary publicly funded retraining, any discharge or repayment terms, and remedies for government breach. No unlimited obligation, automatic discharge, or compulsory retraining rule is adopted.
 
@@ -179,7 +179,7 @@ There is an unresolved tension between preserving like-for-like service and avoi
 - Withdrawal and breach: Requires definition. Transfer, proportionate repayment, practical exit, government breach, and consequences of unjustified refusal need qualified legal and accessibility review.
 - Equity and additional value: Requires definition and evidence. Examine burden across households, displacement, wage suppression, supervision costs, and whether participants would have served anyway.
 
-Produce a specimen agreement after the major options are clear. Mark unresolved clauses; do not treat publication, founder support, or an eventual project vote as proof of legal enforceability or economic feasibility.
+Produce a specimen agreement after the major options are clear. Mark unresolved clauses; do not treat publication or a project vote as proof of legal enforceability or economic feasibility.
 
 ## Feasibility and evaluation
 
@@ -198,17 +198,17 @@ Measure the purposes directly:
 - Fiscal performance: gross and net spending, cost per additional service unit, liabilities, and overruns.
 - Institutional power: concentration of authority, conflicts, meaningful routes to challenge decisions, audit effectiveness, and reversibility.
 
-Set thresholds before a pilot with affected participants and appropriate reviewers. Use credible comparison groups where feasible and disclose selection bias, spillovers, and uncertainty. Small-scale success does not establish national or international scalability. R01 and R09-R10 inform evaluation and participation; no numerical success thresholds are adopted here.
+Set thresholds before a pilot with affected participants and appropriate reviewers. Use credible comparison groups where feasible and disclose selection bias, spillovers, and uncertainty. Small-scale success does not establish national or international scalability. [R01] and [R09]-[R10] inform evaluation and participation; no numerical success thresholds are adopted here.
 
 ## Roadmap and review checkpoints
 
 ### Phase 0 Foundation
 
-Prepare the charter, glossary, proposal status, decision log, and reference inventory. Connect every workstream to a human outcome. The checkpoint confirms scope and identifies missing context; it does not require reauthorizing routine documentation updates.
+Prepare the charter, glossary, proposal status, current requirements register, and reference inventory. Connect every workstream to a human outcome. The checkpoint confirms scope, definitions, and unresolved requirements.
 
 ### Phase 1 Evidence
 
-Appraise R01-R20, recover blocked sources, correct mismatched support, and add program comparisons and counterevidence. Each material claim must have appropriate support or an explicit unresolved flag.
+Appraise [R01]-[R20], recover blocked sources, correct mismatched support, and add program comparisons and counterevidence. Each material claim must have appropriate support or an explicit unresolved flag.
 
 ### Phase 2 Design options
 
@@ -230,7 +230,7 @@ Produce the revised framework, integrated source appendix, updated overview, and
 
 If warranted, select a limited intervention with evaluation, participant protections, funding, continuity arrangements, and shutdown criteria. Research documentation authorization does not authorize enrollment or spending.
 
-Planning allowance for phases 0-5: approximately 60-100 working hours, excluding specialist review and live-pilot design. At 4-6 hours per week this would imply roughly 10-25 weeks, plus review delays. These are inherited rough estimates, not commitments or a transition timeline for society.
+Planning allowance for phases 0-5: approximately 60-100 working hours, excluding specialist review and live-pilot design. At 4-6 hours per week this would imply roughly 10-25 weeks, plus review delays. These are unvalidated planning assumptions, not commitments or a transition timeline for society.
 
 ## Failure scenarios
 
@@ -251,9 +251,9 @@ For each scenario record affected people, mechanism of harm, leading indicators,
 
 Contributors adopt and revise project positions by vote. Steve is the founder and initial coordinator, with the same voting rights as other contributors and no unilateral veto. All goals, principles, mechanisms, and governance rules remain revisable. Research support collects evidence, compares alternatives, preserves assumptions, and maintains versions. Independent reviewers may cover economics, finance, labor, disability access, public administration, and law; their participation is not assumed.
 
-Maintain a decision log, claim register, and risk register. Decisions should include ID, date, scope, rationale, evidence, affected documents, and review trigger. Claims require the exact assertion, source passage, date, jurisdiction, counterevidence, and limitations. The current decision record is docs/DECISIONS.md.
+Maintain a current requirements register, claim register, and risk register. Requirements shall state their scope, evidence, uncertainties, and review criteria. Claims require the exact assertion, source passage, date, jurisdiction, counterevidence, and limitations. The requirements register is docs/DECISIONS.md.
 
-At meaningful discussion checkpoints, integrate substantive developments into the repository. Ask a focused question if inclusion, interpretation, or adoption is unclear. Do not silently promote tentative suggestions into agreed policy. Preserve earlier versions in Git history and keep current documents aligned. This process operates during accessible work sessions, not as background monitoring of every conversation.
+Apply DOCUMENTATION_STANDARD.md to all project documents. Use numbered claim-level citations and a References section at the end of each standalone document. Separate sourced findings, policy proposals, inferences, and assumptions. Current documentation shall exclude internal conversations and revision narratives.
 
 ## Contributor review and integration
 
@@ -267,26 +267,164 @@ Ideas and evidence can enter discussion without becoming adopted positions; fait
 
 With S supporting, O opposing, and A abstaining, participation is S + O + A and the approval denominator D is S + O. After quorum and D > 0, ordinary decisions require 5 × S >= 3 × D; governance and purpose decisions require 3 × S >= 2 × D. Below three eligible contributors, ordinary decisions instead require 2 × S > D. Exactly 60 percent or two-thirds passes in its respective tier; do not round a failing percentage into approval.
 
-GOVERNANCE.md v1.1 defines the adopted procedure. Freeze the eligible roster, tier, quorum, rule version, and exact proposal at opening. Ordinary changes have seven-day review and voting windows; governance or purpose changes have fourteen-day windows. Separate unrelated decisions. A material edit requires renewed review and a fresh vote. Independent review is sought without creating an additional veto. R21 records Python governance as a limited precedent for the higher threshold; it does not validate this project's full design.
+GOVERNANCE.md v1.1 defines the adopted procedure. Freeze the eligible roster, tier, quorum, rule version, and exact proposal at opening. Ordinary changes have seven-day review and voting windows; governance or purpose changes have fourteen-day windows. Separate unrelated decisions. A material edit requires renewed review and a fresh vote. Independent review is sought without creating an additional veto. [R21] records Python governance as a limited precedent for the higher threshold; it does not validate this project's full design.
 
 Retain qualification links, ballot versions, timestamps, interests, exclusions, dissent, final text checks, and the merge commit. Maintainers implement valid results rather than exercising a second policy veto. Objective publication or procedural obstacles must be recorded and resolved openly. New substantive text after a vote needs renewed review. Routine faithful synchronization remains authorized. A general project license and stronger technical enforcement remain unresolved.
 
-The September 26 contributor-authority clarification and subsequent adoption of tiered governance are recorded as founding decisions, not community ballots that did not occur. No ballot automation or branch protection has been installed. Review the procedure after three completed proposals or 30 days of active participation, whichever occurs first; contributors may propose revisions sooner.
+Review the governance procedure after three completed proposals or thirty days of active participation, whichever occurs first. Technical voting automation, licensing, and distributed maintainer access require further definition and implementation assessment.
 
 
 ## Immediate research sequence
 
-1. Use this complete purpose as the basis for glossary and charter decisions; identify any remaining gaps in the available originating discussion.
-2. Resolve R05 support and recover R13, R15, R17, and R18. Obtain an official source for the uncited ROTC comparison before using its terms.
+1. Use this complete purpose as the basis for glossary and charter decisions; identify unresolved definitions and research gaps.
+2. Resolve [R05] support and recover [R13], [R15], [R17], and [R18]. Obtain an official source for the uncited ROTC comparison before using its terms.
 3. Compare floor, ownership, and governance options alongside service-compact alternatives. Do not allow the newest mechanism to displace the larger inquiry.
 4. Build the first household and cohort models. Prioritize acceptance trigger, compensation, exit, placement failure, and government obligations for the compact.
-5. Update the complete proposal, decisions, references, generated editions, and revision history at the next meaningful checkpoint.
+5. Update the complete proposal, requirements, references, and generated editions at the next meaningful checkpoint.
 
 ## Evidence and publication limits
 
-The 20 original source links are retained in REFERENCES.md and the generated editions, alongside the added R21 governance precedent. The originating conversation was truncated; completeness for unseen messages is not claimed. Retrieval does not establish full appraisal or validate the combined framework. The proposal remains a work in progress, and research or publication does not authorize policy implementation.
+The source inventory identifies candidate literature and verification limits. Retrieval alone does not establish claim support or validate the combined framework. Requires evidence: a completed claim-level literature appraisal, resolution of mismatched support, and recovery or replacement of inaccessible sources. Research publication does not authorize policy implementation.
 
 
 ## Sole-contributor operation
 
-When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; the approval and tally shall be retained in the platform audit record. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+
+# References
+
+Source inventory for the current research plan. Entries [R01]-[R20] retain recorded retrieval statuses dated September 25, 2026 UTC; those statuses are not a fresh verification. Detailed passage-level appraisal remains pending. [R21] was verified September 27, 2026. These sources identify literature relevant to specific research questions; they do not validate the combined framework.
+
+Use this register with [the full project plan](PROJECT_PLAN.md), which explains the purposes the research serves. Add new evidence here with scope, retrieval date, and limitations, then regenerate the PDF and text editions. Preserve conflicting evidence and unresolved citation problems.
+
+## [R01] OECD Regulatory Policy Outlook 2025 - Regulating for effectiveness
+
+[Original source](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/regulating-for-effectiveness_e4e30799.html)
+
+Retrieved; detailed evidence appraisal pending. Evaluation and correction of regulation; phase 1 evidence review.
+
+## [R02] Opportunities for All - Build efficient and responsive governments
+
+[Original source](https://www.oecd.org/en/publications/opportunities-for-all_9789264301665-en/full-report/component-11.html)
+
+Retrieved; detailed evidence appraisal pending. Capture and responsive government; governance workstream.
+
+## [R03] Exploring New Frontiers in Citizen Participation - Building Resilient Democracies
+
+[Original source](https://www.oecd.org/en/publications/exploring-new-frontiers-in-citizen-participation-in-the-policy-cycle_77f5098c-en/full-report/building-resilient-democracies-by-putting-citizens-at-the-heart-of-policymaking_9ae4f161.html)
+
+Retrieved; detailed evidence appraisal pending. Citizen participation and democratic resilience; consultation design.
+
+## [R04] The Sequencing and Speed of Reforms in Transition Economies: Implications for the Case of Uzbekistan
+
+[Original source](https://www.imf.org/-/media/Files/Publications/Selected-Issues-Papers/2025/English/SIPEA2025086.ashx)
+
+Retrieved; detailed evidence appraisal pending. Sequencing and speed; country-specific transition evidence, not proof of a universal path.
+
+## [R05] Structures, Processes and Governance in Tax Policy-Making - Carlo Cottarelli
+
+[Original source](https://www.imf.org/en/news/articles/2015/09/28/04/53/sp030812)
+
+Retrieved; claim support needs correction. The source concerns tax policymaking. Support for compensation before disruption is not established; that claim requires another source or a supporting passage.
+
+## [R06] Government at a Glance 2025 - Poverty and inequality
+
+[Original source](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/poverty-and-inequality_5f7b56a0.html)
+
+Retrieved; detailed evidence appraisal pending. Baseline inequality and redistribution measures; distinguish association from causal attribution.
+
+## [R07] Closing the Gap: A LIC’s Policy Options Under an Aid Shock
+
+[Original source](https://www.imf.org/en/publications/wp/issues/2026/07/17/closing-the-gap-a-lics-policy-options-under-an-aid-shock-577846)
+
+Retrieved; detailed evidence appraisal pending. Fiscal stress scenarios. Model of an aid-dependent economy; do not generalize its results to every country.
+
+## [R08] Financing gap for universal social protection: Global, regional and national estimates and strategies for creating fiscal space
+
+[Original source](https://www.ilo.org/publications/financing-gap-universal-social-protection-global-regional-and-national)
+
+Retrieved; detailed evidence appraisal pending. Costing social protection and international variation. Any numerical estimate requires passage-level verification, population scope, and a dated citation before use in this project’s budget.
+
+## [R09] Support for Economic Reforms Hinges on Communication, Engagement, and Trust
+
+[Original source](https://www.imf.org/en/blogs/articles/2024/10/16/support-for-economic-reforms-hinges-on-communication-engagement-and-trust)
+
+Retrieved; detailed evidence appraisal pending. Engagement and reform support; investigate study design and limits before extrapolation.
+
+## [R10] Getting the Public on Side
+
+[Original source](https://www.oecd.org/en/publications/getting-the-public-on-side_262255fd-en.html)
+
+Retrieved; detailed evidence appraisal pending. Public acceptance and reform design; compare proposed mechanisms.
+
+## [R11] Social protection floor
+
+[Original source](https://www.ilo.org/universal-social-protection-department/areas-work-social-protection-department/policy-development-and-applied-research/social-protection-floor)
+
+Retrieved; detailed evidence appraisal pending. Definition of a social protection floor; inputs to floor specification.
+
+## [R12] NHSC Scholarship Program Overview
+
+[Original source](https://nhsc.hrsa.gov/scholarships/overview)
+
+Retrieved; detailed evidence appraisal pending. Education-for-service precedent in selected health professions; not evidence that a universal scheme would succeed.
+
+## [R13] US Naval Academy - Admissions Apply
+
+[Original source](https://www.usna.edu/Admissions/Apply/)
+
+Access blocked; not reverified. Military education reference; blocked with HTTP 403, details not reverified.
+
+## [R14] How to Comply with Scholarship Program Requirements
+
+[Original source](https://nhsc.hrsa.gov/scholarships/requirements-compliance)
+
+Retrieved; detailed evidence appraisal pending. Detailed scholarship obligations; assess scope and current contract conditions separately.
+
+## [R15] US Naval Academy - Blue and Gold Book Admissions
+
+[Original source](https://www.usna.edu/BlueAndGoldBook/admissions.php)
+
+Access blocked; not reverified. Noncompletion and service-agreement reference; blocked with HTTP 403, details not reverified.
+
+## [R16] Disability Discrimination and Employment Decisions
+
+[Original source](https://www.eeoc.gov/disability-discrimination-and-employment-decisions)
+
+Retrieved; detailed evidence appraisal pending. Accessible employment analysis; does not establish that every student can perform every job.
+
+## [R17] Department of Labor ODEP - Apprenticeship
+
+[Original source](https://www.dol.gov/agencies/odep/program-areas/apprenticeship)
+
+Access blocked; not reverified. Accessible apprenticeship context; blocked with HTTP 403, content not reverified.
+
+## [R18] Convention on the Rights of Persons with Disabilities - Article 27 Work and employment
+
+[Original source](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-27-work-and-employment.html)
+
+Access blocked; not reverified. Work and disability rights context; blocked with HTTP 403, content not reverified.
+
+## [R19] Anti-Corruption and Integrity Outlook 2026
+
+[Original source](https://www.oecd.org/en/publications/anti-corruption-and-integrity-outlook-2026_16708b78-en.html)
+
+Retrieved; detailed evidence appraisal pending. Integrity implementation and institutional capture; governance evidence review.
+
+## [R20] The ADA: Your Employment Rights as an Individual With a Disability
+
+[Original source](https://www.eeoc.gov/publications/ada-your-employment-rights-individual-disability)
+
+Retrieved; detailed evidence appraisal pending. Reasonable accommodation and essential job functions; legal applicability needs qualified review.
+
+## [R21] Python PEP 13 - Python Language Governance
+
+[Original source](https://peps.python.org/pep-0013/)
+
+Python core team and community. PEP 13 - Python Language Governance. Created December 16, 2018; Python Enhancement Proposals. Section: Changing this document. Verified September 27, 2026. The section specifies at least two-thirds approval and a two-week governance-amendment vote. This is a limited procedural comparison, not evidence for the effectiveness of this project’s eligibility, quorum, or economic framework.
+
+## Evidence gaps and metadata requirements
+
+R05 does not yet support the compensation-before-disruption claim. R13, R15, R17, and R18 were blocked in the recorded review. Army ROTC needs an official source before its contractual terms are used. Novelty, repayment value, political support, and expanded-ownership effects require additional research.
+
+Requires verification for [R01]-[R20]: complete bibliographic metadata, responsible authors or institutions, publication dates, relevant pages or sections, and claim-level support. Existing titles and URLs are retained as research leads; absent metadata must not be inferred.

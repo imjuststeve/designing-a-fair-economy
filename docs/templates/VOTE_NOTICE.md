@@ -20,3 +20,7 @@ Use SUPPORT, OPPOSE, or ABSTAIN with the exact proposal commit, qualifying contr
 Participation P = SUPPORT + OPPOSE + ABSTAIN. Approval denominator D = SUPPORT + OPPOSE. Abstentions count toward quorum only; non-voters count toward neither. Require P >= Q and D > 0. Ordinary decisions require 5 × SUPPORT >= 3 × D (60 percent), except C < 3 uses 2 × SUPPORT > D (strict majority). Governance and purpose changes require 3 × SUPPORT >= 2 × D (two-thirds) at every group size. Exactly the threshold passes; do not round a failing share up.
 
 Missing quorum or D = 0 means no decision. A sufficient-turnout vote below its approval threshold is not adopted. A passing vote directs faithful integration without a second policy approval or founder override. Everything remains revisable. Material changes to proposal text require renewed review and a fresh vote; rules and eligibility cannot be changed mid-vote.
+
+## Documentation check
+
+Published text must follow DOCUMENTATION_STANDARD.md: current-state scholarly prose; numbered claim-level citations; complete end references; explicit assumptions and gaps; no internal conversation or revision narrative. Procedural review and ballot details remain in the platform audit record.

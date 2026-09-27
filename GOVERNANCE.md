@@ -6,15 +6,15 @@ Adopted policy v1.1 — September 26, 2026.
 
 Contributors determine adoption by vote. An adopted decision directs the current project until a later valid vote changes or reverses it. Nothing in the project is permanently settled: goals, principles, mechanisms, wording, membership criteria, voting procedures, and governance itself can be revised.
 
-Steve Smith confirmed this direction on September 26, 2026, including that contributors qualify to vote and the founder has no unilateral veto. The founder participates on the same voting terms as other contributors. Repository ownership and merge permissions are administrative capabilities; they do not grant additional policy authority.
+The founder participates on the same voting terms as other contributors and has no unilateral veto. Repository ownership and merge permissions are administrative capabilities; they do not grant additional policy authority.
 
-This supersedes the initial advisory-vote and owner-approval model. It does not turn earlier proposals into adopted policies or turn previous discussion into a recorded community vote. The founding clarification is recorded as such in docs/DECISIONS.md.
+
 
 ## Sole-contributor procedure
 
-When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; the approval and tally shall be retained in the platform audit record. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
 
-Adopted September 26, 2026 by Steve Smith's explicit instruction to count his sole-contributor approval as 100 percent and publish. This is a recorded sole-contributor decision, not a claim that the earlier multi-day procedure was completed. See D009-D010 in docs/DECISIONS.md.
+
 
 ## Who qualifies to vote
 
@@ -96,15 +96,15 @@ Abstention means declining to express a preference. Consequently, if quorum is m
 
 Record one of three outcomes: adopted when quorum and approval pass; not adopted when quorum is met and D > 0 but approval fails; no decision when quorum is missing or D = 0. The existing position remains in place in the latter two cases. Insufficient participation is not rejection of the proposal's merits. A fresh vote may be announced with a new window; do not extend a closed vote or alter its rules to manufacture a result. There is no founder override.
 
-## Adoption, review, and rationale
+## Review and analytical rationale
 
-Steve Smith explicitly adopted this model on September 26, 2026 as the current policy, replacing the earlier single-threshold model. This is a founding policy adoption recorded in D007, not a claim that a community ballot occurred. Adoption gives the policy continuing effect until revised; it creates no permanent or immune clause and no ongoing founder exception to contributor voting.
 
-The tiers encourage exploration, require wider agreement for project commitments, and apply additional scrutiny to changes in decision-making power and purpose. The quorum reduces decisions by a tiny unrepresentative turnout, while excluding abstentions lets contributors decline to judge without opposing a proposal. These are design choices, not guarantees against capture or deadlock.
+
+The tiers encourage exploration, require wider agreement for project commitments, and apply additional scrutiny to changes in decision-making power and purpose. The quorum is intended to reduce decisions by a tiny unrepresentative turnout, while excluding abstentions lets contributors decline to judge without opposing a proposal. These are design choices, not guarantees against capture or deadlock.
 
 Review this policy after three completed proposals or thirty days of active participation, whichever occurs first. Assess participation, inactive membership, classification disputes, abstentions, eligibility manipulation, and barriers to useful contributions. This is a review checkpoint, not a scheduled automation. The current rules continue until revised; contributors can propose changes sooner. Independent review is encouraged but does not create an extra policy veto.
 
-R21, [Python PEP 13](https://peps.python.org/pep-0013/), provides a precedent for two-thirds approval and a two-week governance voting window. This project adopts its own eligibility, quorum, and tier rules; Python's council authority and membership system are not imported.
+Python PEP 13 [R21] provides a precedent for two-thirds approval and a two-week governance voting window. This project adopts its own eligibility, quorum, and tier rules; Python's council authority and membership system are not imported.
 
 ## Evidence, disputes, and reconsideration
 
@@ -118,9 +118,13 @@ Any contributor may propose reconsideration for new evidence, changed circumstan
 
 ## Integration and platform limits
 
-Use docs/templates/DECISION_RECORD.md and add adopted decisions to docs/DECISIONS.md. Keep accepted awaiting integration distinct from integrated. The record connects the proposal, frozen version, rules, qualification evidence, ballots, dissent, pull request, verification, and merge commit.
+Use docs/templates/DECISION_RECORD.md for platform proposal and ballot records. Preserve the frozen version, rules, qualification evidence, ballots, dissent, final text, and publication commit in that audit trail. docs/DECISIONS.md shall contain current requirements and unresolved questions without internal deliberation or revision narratives.
 
 Issue and pull-request templates support the process. Voting, qualification review, and tallying are manual. No automatic merge, identity verification, background monitoring, or branch-protection configuration is installed by these documents. Technical write permissions remain separate from voting rights. Consider branch protections and distributed maintainer access through contributor governance when staffing permits.
 
-Platform references: [GitHub issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates) and [protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches). These describe capabilities, not completed configuration.
+Project documentation shall follow DOCUMENTATION_STANDARD.md. Governance provisions are project policy choices; external precedent is not validation of their effectiveness. The comparative statement concerning PEP 13 is supported by [R21].
 
+
+## References
+
+[R21] Python core team and community. PEP 13 - Python Language Governance. Created December 16, 2018. Python Enhancement Proposals. Section: Changing this document. https://peps.python.org/pep-0013/ . Verified September 27, 2026. Limited comparison: two-thirds approval and a two-week governance-amendment vote.

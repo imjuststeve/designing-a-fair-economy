@@ -21,3 +21,7 @@ Explain how the change fits the complete project. A full replacement draft is op
 
 ## Interests and authorship
 Relevant affiliations, interests, and AI assistance. Include only information safe to publish.
+
+## Documentation check
+
+Published text must follow DOCUMENTATION_STANDARD.md: current-state scholarly prose; numbered claim-level citations; complete end references; explicit assumptions and gaps; no internal conversation or revision narrative. Procedural review and ballot details remain in the platform audit record.

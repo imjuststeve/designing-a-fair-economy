@@ -25,7 +25,7 @@ For C >= 3, Q = max(3, ceiling(C / 2)); for C = 1 or 2, Q = 1. No electorate mea
 ## Auditable ballots
 Account, contribution link, ballot comment link, timestamp, choice, proposal version, and interests for each counted ballot. Record exclusions, replacements, roster challenges, and outcome-changing disputes with reasons. Preserve evidence without exposing private data.
 
-## Decision and reasoning
+## Decision and procedural audit
 Adopted: quorum and approval both pass, with D > 0.
 Not adopted: quorum met and D > 0, but approval fails.
 No decision: quorum not met, no eligible contributors, or D = 0.
@@ -45,3 +45,7 @@ Material edits require renewed review and a fresh vote. Maintainers implement th
 
 ## Revisit
 Review trigger, remaining questions, and reconsideration route. Every decision is revisable, including governance and purpose; changes apply prospectively under the rules in force when voting opens.
+
+## Documentation check
+
+Published text must follow DOCUMENTATION_STANDARD.md: current-state scholarly prose; numbered claim-level citations; complete end references; explicit assumptions and gaps; no internal conversation or revision narrative. Procedural review and ballot details remain in the platform audit record.

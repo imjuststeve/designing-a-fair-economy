@@ -57,7 +57,8 @@ def render(md):
         story.append(Paragraph(inline(' '.join(paragraph)),styles['B']))
 
 plan=(ROOT/'docs/PROJECT_PLAN.md').read_text()
-refs=(ROOT/'REFERENCES.md').read_text()
+refs=(ROOT/'REFERENCES.md').read_text().replace('# Reference register','# References',1)
+plan=plan.split('\n# References\n',1)[0]
 render(plan);story.append(PageBreak())
 parts=re.split(r'(?=^## )',refs,flags=re.M)
 render(parts[0])
@@ -69,7 +70,7 @@ for section in parts[1:]:
     story.append(KeepTogether(group))
 def footer(c,d):
     c.saveState();c.setFont('Body',8);c.setFillColor(colors.HexColor('#555555'))
-    c.drawString(52,28,'Designing a Fair Economy | Living plan v0.4 | September 26, 2026')
+    c.drawString(52,28,'Designing a Fair Economy | Research plan v0.5 | September 27, 2026')
     c.drawRightString(560,28,str(d.page));c.restoreState()
 SimpleDocTemplate(str(ROOT/'docs/Economic_Transition_Project_Plan.pdf'),pagesize=letter,leftMargin=52,rightMargin=52,topMargin=45,bottomMargin=48,title='Designing a Fair Economy Project Plan',author='Steve Smith').build(story,onFirstPage=footer,onLaterPages=footer)
 text=plan+'\n\n'+refs
@@ -77,4 +78,3 @@ text=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',r'\1 (\2)',text)
 text=re.sub(r'^#{1,6} ', '',text,flags=re.M).replace('**','')
 (ROOT/'docs/PROJECT_PLAN.txt').write_text('Current text edition generated from PROJECT_PLAN.md and REFERENCES.md.\n\n'+text)
 print('Regenerated PDF and text editions.')
-

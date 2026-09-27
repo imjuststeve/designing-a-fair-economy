@@ -1,43 +1,32 @@
-# Living project instructions
+# Project maintenance requirements
 
-These instructions apply to the entire repository and to all assistants working on Designing a Fair Economy.
+These instructions apply throughout the repository.
 
-## Standing authorization and contributor authority
+## Authorization and scope
 
-On September 26, 2026, Steve Smith directed that this repository be the living project, that all documentation present the complete concept and goals, and that new ideas discussed in project work be integrated into it. Routine project documentation updates are authorized; do not ask for permission again merely to record a discussion or maintain consistency.
+Routine documentation maintenance and publication are authorized during project work sessions. Integrate approved requirements, maintain the full framework, and ask only when ambiguity materially changes meaning or adoption. Do not convert tentative ideas into adopted policy. This authorization does not cover unrelated outreach, spending, enrollment, or live policy implementation.
 
-At a meaningful checkpoint, ask a focused question if it is unclear whether an idea should be incorporated, which interpretation is intended, or whether a proposal has been adopted. Continue independent work while that question is unresolved. Record uncertainty accurately; never convert exploratory discussion or silence into approval. This authorization covers this project and does not authorize unrelated outreach, spending, enrollment, or implementation.
+## Documentation standard
 
-## Preserve the complete concept
+Follow DOCUMENTATION_STANDARD.md. Present current proposals in formal scholarly style with nearby numbered citations and a matching References section at the end of each standalone document. Exclude internal conversations, revision narratives, and accounts of why earlier provisions were replaced. Explain current provisions analytically. Clearly identify proposals, sourced findings, assumptions, inferences, and unresolved questions. Never fabricate citations or claim verification that did not occur.
 
-Every substantive revision must preserve the connections among practical freedom, economic security, diverse ambitions and outcomes, broader participation in productive wealth, contestable power, adaptive governance, and an affordable and survivable transition. Explain why mechanisms exist and how they serve those purposes. Education-for-service is one candidate mechanism within the framework; do not let the most recent topic replace the overall mission.
+## Maintenance workflow
 
-Distinguish guiding values, working proposals, adopted decisions, empirical evidence, and open questions. Do not dilute the purpose merely because implementation is uncertain. Preserve the currently adopted framework in routine edits; its goals and every governance rule are open to explicit revision by contributor vote. Do not use preservation instructions as immutable constraints or as grounds to exclude proposals for change. Do not claim a proposal works merely because it expresses the purpose well. Preserve dissent and the limits of the available originating conversation.
+1. Fetch the current branch and read README.md, docs/PROJECT_PLAN.md, docs/DECISIONS.md, REFERENCES.md, CONTRIBUTING.md, GOVERNANCE.md, and DOCUMENTATION_STANDARD.md.
+2. Preserve the complete relationship among security, practical freedom, diverse outcomes, ownership, contestable power, and a survivable transition.
+3. Update affected documents together. docs/DECISIONS.md contains current requirements and open questions. Historical discussion, ballots, and procedural audit records belong in platform records and Git history, not the substantive documents. Do not add revision narratives to CHANGELOG.md.
+4. Preserve stable source identifiers and URLs. Disclose mismatched support, unavailable sources, missing metadata, counterevidence, and verification limits. Synchronize the reference appendix in the README and plan from REFERENCES.md.
+5. Run scripts/build_documents.py when the plan or references change. Verify PDF and text consistency; render and inspect every PDF page.
+6. Check links, citations, definitions, proposal status, and governance consistency. Publish authorized changes without force-pushing over intervening work and verify the remote commit.
 
-## Update workflow
+## Contributor authority
 
-1. Read the current README, docs/PROJECT_PLAN.md, docs/DECISIONS.md, REFERENCES.md, CHANGELOG.md, CONTRIBUTING.md, and GOVERNANCE.md. Fetch the current branch before editing; inspect any additional relevant files.
-2. Integrate substantive new ideas into the relevant part of the complete proposal, with their status and rationale. Update the decision record and dependencies. Avoid leaving important ideas only in chat or in a disconnected addendum.
-3. Update README and all affected documents together. Preserve existing reference IDs and URLs; add new sources with scope and verification limits. Do not silently delete conflicting evidence.
-4. Run scripts/build_documents.py to regenerate the PDF and text edition whenever the plan or reference register changes. The Markdown plan is the editable source; generated copies must agree with it.
-5. Check relative links, references, proposal status, and cross-document consistency. Render the PDF and inspect every page for clipping, layout errors, and readable text. Record the revision in CHANGELOG.md.
-6. Commit and publish the authorized documentation changes without force-pushing over intervening work. Verify the published tree matches the intended files. Report the outcome and any limitations.
+Apply GOVERNANCE.md. Every goal and rule is revisable; the founder has one vote and no unilateral veto. Editorial maintenance requires no substantive ballot. Ordinary substantive changes require 60 percent approval when at least three contributors are eligible; fewer than three use strict majority. Governance and purpose changes require two-thirds. Abstentions count toward participation, not approval. Quorum is max(3, ceiling(C/2)) for C >= 3, and one for C = 1 or 2. No expressed preferences means no decision.
 
-Use Git history to preserve superseded editions. Current filenames should present the current project, not an outdated baseline. If a short summary omits detail, link directly to the complete plan and preserve the purpose in the summary itself.
+When exactly one human contributor is eligible, explicit approval permits immediate adoption and publication without separate waiting periods, issue ballots, or independent PR review. Record the approval scope and tally in the publication audit trail without reproducing private conversation. Automated drafting does not create additional voters. With more contributors, apply the published review, voting, and fidelity-check procedures. Retain dissent and qualification evidence in platform audit records.
 
-## Operating boundary
+## References
 
-The update practice operates during project work sessions with repository access. It is not background monitoring of every conversation. If access is unavailable, keep prepared changes and state that they have not been published. Ask at a checkpoint when uncertainty materially changes the project, rather than requiring confirmation for each routine edit.
+[P1] Designing a Fair Economy. DOCUMENTATION_STANDARD.md. September 27, 2026. Project documentation requirements.
 
-## Third-party contributions
-
-Use the published governance process for substantive proposals from any contributor, including the founder. Contributors with traceable project work decide adoption by vote; the founder has no unilateral veto. Every decision, goal, and rule is revisable through that process. Routine synchronization remains authorized, but a new idea from any individual must be recorded as proposed until adopted by a valid vote. The September 26 authority clarification and D007 policy adoption are recorded as founding decisions, not fictitious community votes or ongoing founder override powers.
-
-Preserve qualification evidence, ballots, reasons, minority views, contributor permissions, and the recorded result. Do not turn vote counts into factual proof. Integrate adopted text through a linked reviewed pull request without a second discretionary owner approval. Distinguish technical permissions from policy authority, and record objective integration obstacles instead of silently overruling a vote. Keep the full project and generated editions aligned.
-
-Ideas and evidence can enter discussion without becoming adopted positions; faithful editorial corrections use maintainer review. Substantive additions, revisions, and removals require at least 60 percent approval. Governance, voting rights, and central-purpose changes require at least two-thirds. Approval excludes abstentions; abstentions count toward participation. Once three contributors are eligible, quorum is at least half of the eligible roster, rounded up, with a minimum of three. Below three eligible contributors, ordinary decisions use a strict majority with at least one participant; the two-thirds governance threshold still applies. Missing quorum or no expressed preferences means no decision. Apply GOVERNANCE.md v1.1, including frozen eligibility, exact integer thresholds, seven-day ordinary and fourteen-day governance review and voting windows, and faithful integration without a second policy approval. Treat this as adopted current policy until changed by vote, never as immutable.
-
-
-## Sole-contributor operation
-
-When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+[P2] Designing a Fair Economy. GOVERNANCE.md. Current repository policy.

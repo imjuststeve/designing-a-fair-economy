@@ -41,7 +41,7 @@ Adoption and publication are distinct stages. Maintainers must faithfully integr
 
 ## Submit work you can share
 
-Cite source URLs and passages, preserve reference IDs, and explain scope limits. Do not upload full copyrighted articles, private data, or material you lack permission to publish. Identify AI assistance and verify the factual claims it helped produce. Humans remain responsible for submissions and ballots.
+Cite source URLs and passages, preserve reference IDs, and explain scope limits. Do not upload full copyrighted articles, private data, or material you lack permission to publish. Identify AI assistance in submission metadata and verify the factual claims it helped produce. Humans remain responsible for submissions and ballots.
 
 No general project license has been selected. Reviews can begin now. Before merging substantial contributed text, the maintainer must record the contributor's explicit permission to include that text in this public repository with attribution, or applicable license terms. This does not settle the project's future reuse license or transfer copyright. A broader contribution and licensing policy remains a contributor-governance decision; a vote cannot grant publication rights held by someone else.
 
@@ -54,4 +54,14 @@ Maintainers should explain status changes and exclusions publicly, except where 
 
 ## Sole-contributor operation
 
-When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; a recorded conversational approval may be transcribed into the decision register. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+When exactly one eligible human contributor exists, that person's explicit approval may adopt and publish a defined change immediately. Record the text, identity, contribution evidence, date, and tally: C=1, S=1, O=0, A=0, participation=1, approval=100 percent. Separate review/voting waiting periods, a separate issue ballot, and independent PR review are not required in this sole-contributor case; the approval and tally shall be retained in the platform audit record. This exception ends as soon as a second person qualifies, when the normal review, voting, and integration procedure applies. It is not a founder veto or extra vote. Unresolved questions remain unresolved unless explicitly decided. AI assistance and automated commits do not create additional human voters.
+
+## Documentation requirements
+
+Follow the documentation and evidence standard [P1]. Publish current-state scholarly prose, with sourced findings distinguished from proposals and assumptions. Cite factual claims with nearby numbered notation and include complete references at the end of each standalone document. Mark evidence and definition gaps explicitly. Keep conversation summaries and revision narratives out of documentation. Preserve procedural ballots and review history in platform audit records.
+
+## References
+
+[P1] Designing a Fair Economy. [Documentation and evidence standard](DOCUMENTATION_STANDARD.md). September 27, 2026. Project publication requirements.
+
+[P2] Designing a Fair Economy. [Contribution governance](GOVERNANCE.md). Current repository policy governing the voting requirements described here.

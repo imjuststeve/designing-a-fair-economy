@@ -33,3 +33,7 @@ Discussion, evidence review, draft editing, or consideration for a later vote?
 
 ## Integration and rights
 Files requiring coordinated updates. Confirm that proposed original text may be included in this public repository with attribution, or identify applicable permission terms. A future general project license remains unresolved.
+
+## Documentation check
+
+Published text must follow DOCUMENTATION_STANDARD.md: current-state scholarly prose; numbered claim-level citations; complete end references; explicit assumptions and gaps; no internal conversation or revision narrative. Procedural review and ballot details remain in the platform audit record.
